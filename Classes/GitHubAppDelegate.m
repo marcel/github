@@ -14,8 +14,8 @@
 @synthesize window;
 @synthesize navigationController;
 - (void)applicationDidFinishLaunching:(UIApplication *)application {
-  [window addSubview:[navigationController view]];
-	[window makeKeyAndVisible];
+  [window addSubview:[navigationController view]];  
+  [window makeKeyAndVisible];
 }
 
 

@@ -10,6 +10,8 @@
 #import "GitHubAppDelegate.h"
 #import "NewsFeedItem.h"
 #import "FeedParser.h"
+#import "NewsFeedItemCell.h"
+#import "NewsFeedItemDetailViewController.h"
 
 #define PublicNewsFeedURL @"http://github.com/news.atom"
 #define UserNewsFeedURL   @"http://github.com/%@.atom"
@@ -63,24 +65,44 @@
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
 	
-	static NSString *cellIdentifier = @"NewsFeedItem";
-	
-	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];
-	if (cell == nil) {
-		cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:cellIdentifier] autorelease];
-    cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
-}
+  //static NSString *cellIdentifier = @"NewsFeedItem";
+    NewsFeedItemCell *cell;
+	//UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];
+    //if (cell == nil) {
+        cell = [[[NSBundle mainBundle] loadNibNamed:@"NewsFeedItemCell" 
+                                                                owner:self 
+                                                              options:nil] objectAtIndex:1];
+		//cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:cellIdentifier] autorelease];
+  //}
 	
 	NewsFeedItem *item;
     item = [newsFeedItems objectAtIndex:indexPath.row];
-    cell.image = item.icon;
-    cell.text = item.title;
+    UIImageView *iconView;
+    iconView = [[UIImageView alloc] initWithImage:item.icon];
+    cell.icon           = iconView;
+    NSLog(@"Adding image: %@", iconView.image);
+    cell.title.text     = item.title;
+    cell.author.text    = item.author;
+    cell.published.text = @"1m ago";
+    
+    [iconView release];
 	return cell;
 }
 
 
- - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-	 // Navigation logic
+-       (void)tableView:(UITableView *)tableView 
+didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    NewsFeedItemDetailViewController *newsFeedItemDetailViewController;
+    newsFeedItemDetailViewController = [[NewsFeedItemDetailViewController alloc] 
+                                        initWithNibName:@"NewsFeedItemDetailViewController" 
+                                                 bundle:nil];
+    NewsFeedItem *newsFeedItem;
+    newsFeedItem = [newsFeedItems objectAtIndex:indexPath.row];
+    newsFeedItemDetailViewController.newsFeedItem = newsFeedItem;
+    [self.navigationController pushViewController:newsFeedItemDetailViewController 
+                                    animated:YES];
+    [newsFeedItem release];
+    [newsFeedItemDetailViewController release];
 }
 
 

@@ -21,6 +21,8 @@
 		1FBDDE1C0E2DDE8C00E62718 /* commit.png in Resources */ = {isa = PBXBuildFile; fileRef = 1FBDDE170E2DDE8C00E62718 /* commit.png */; };
 		1FBDDE590E2DE13200E62718 /* NewsFeedItemDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FBDDE580E2DE13200E62718 /* NewsFeedItemDetailViewController.m */; };
 		1FBDDE5B0E2DE1A600E62718 /* NewsFeedItemDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1FBDDE5A0E2DE1A600E62718 /* NewsFeedItemDetailViewController.xib */; };
+		1FBDDE800E2E6C5E00E62718 /* NewsFeedItemCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1FBDDE7F0E2E6C5E00E62718 /* NewsFeedItemCell.xib */; };
+		1FBDDE9A0E2E6DA400E62718 /* NewsFeedItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FBDDE980E2E6DA400E62718 /* NewsFeedItemCell.m */; };
 		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
 		2899E5600DE3E45000AC0155 /* NewsFeedTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E55F0DE3E45000AC0155 /* NewsFeedTableViewController.xib */; };
 		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
@@ -46,6 +48,9 @@
 		1FBDDE570E2DE13200E62718 /* NewsFeedItemDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsFeedItemDetailViewController.h; sourceTree = "<group>"; };
 		1FBDDE580E2DE13200E62718 /* NewsFeedItemDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsFeedItemDetailViewController.m; sourceTree = "<group>"; };
 		1FBDDE5A0E2DE1A600E62718 /* NewsFeedItemDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NewsFeedItemDetailViewController.xib; sourceTree = "<group>"; };
+		1FBDDE7F0E2E6C5E00E62718 /* NewsFeedItemCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NewsFeedItemCell.xib; sourceTree = "<group>"; };
+		1FBDDE980E2E6DA400E62718 /* NewsFeedItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsFeedItemCell.m; sourceTree = "<group>"; };
+		1FBDDE990E2E6DA400E62718 /* NewsFeedItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsFeedItemCell.h; sourceTree = "<group>"; };
 		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		2899E55F0DE3E45000AC0155 /* NewsFeedTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NewsFeedTableViewController.xib; sourceTree = "<group>"; };
 		28A0AAE50D9B0CCF005BE974 /* GitHub_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GitHub_Prefix.pch; sourceTree = "<group>"; };
@@ -75,6 +80,8 @@
 			children = (
 				1F8DDADD0E2D832700364EA3 /* FeedParser.h */,
 				1F8DDADE0E2D832700364EA3 /* FeedParser.m */,
+				1FBDDE990E2E6DA400E62718 /* NewsFeedItemCell.h */,
+				1FBDDE980E2E6DA400E62718 /* NewsFeedItemCell.m */,
 				1F8DD9B20E2D720200364EA3 /* TableViewControllers */,
 				1F8DD9B10E2D71F700364EA3 /* Models */,
 				1D3623240D0F684500981E51 /* GitHubAppDelegate.h */,
@@ -131,7 +138,6 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
-				1FBDDE5A0E2DE1A600E62718 /* NewsFeedItemDetailViewController.xib */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -151,6 +157,8 @@
 				1FBDDE1E0E2DDE9700E62718 /* Icons */,
 				1F6E02830E2DAF7C009C18C5 /* GitHubIcon.png */,
 				2899E55F0DE3E45000AC0155 /* NewsFeedTableViewController.xib */,
+				1FBDDE5A0E2DE1A600E62718 /* NewsFeedItemDetailViewController.xib */,
+				1FBDDE7F0E2E6C5E00E62718 /* NewsFeedItemCell.xib */,
 				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Info.plist */,
 			);
@@ -225,6 +233,7 @@
 				1FBDDE1B0E2DDE8C00E62718 /* delete.png in Resources */,
 				1FBDDE1C0E2DDE8C00E62718 /* commit.png in Resources */,
 				1FBDDE5B0E2DE1A600E62718 /* NewsFeedItemDetailViewController.xib in Resources */,
+				1FBDDE800E2E6C5E00E62718 /* NewsFeedItemCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -241,6 +250,7 @@
 				1F8DD9B00E2D71EE00364EA3 /* NewsFeedItem.m in Sources */,
 				1F8DDADF0E2D832700364EA3 /* FeedParser.m in Sources */,
 				1FBDDE590E2DE13200E62718 /* NewsFeedItemDetailViewController.m in Sources */,
+				1FBDDE9A0E2E6DA400E62718 /* NewsFeedItemCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -18,7 +18,7 @@
 @synthesize content;
 
 - (NSString *)description {
-    return [NSString stringWithFormat:@"<NewsFeedItem tag:'@' title:'%@' published:'%@', author:'%@', content:'%@'>",
+    return [NSString stringWithFormat:@"<NewsFeedItem tag:'%@' title:'%@' published:'%@', author:'%@', content:'%@'>",
             tag, title, published, author,  content];
 }
 

@@ -10,7 +10,7 @@
 
 @interface GitHubAppDelegate : NSObject <UIApplicationDelegate> {	
 	IBOutlet UIWindow *window;
-  IBOutlet UINavigationController *navigationController;
+    IBOutlet UINavigationController *navigationController;
 }
 
 @property (nonatomic, retain) UIWindow *window;
