@@ -11,78 +11,20 @@
 
 @implementation NewsFeedItemDetailViewController
 @synthesize newsFeedItem;
+@synthesize authorLabel;
+@synthesize content;
 
-- (id)initWithStyle:(UITableViewStyle)style {
-	if (self = [super initWithStyle:style]) {
-	}
-	return self;
+- (void)viewDidLoad {
+    self.authorLabel.text = newsFeedItem.author;
+    [content loadHTMLString:newsFeedItem.content baseURL:nil];
 }
-
-
-- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
-	return 2;
-}
-
-
-- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-	return 1;
-}
-
-
-- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-	
-	static NSString *MyIdentifier = @"MyIdentifier";
-	
-	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:MyIdentifier];
-	if (cell == nil) {
-		cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:MyIdentifier] autorelease];
-	}
-    
-	switch (indexPath.row) {
-        case 0:
-            cell.text = newsFeedItem.author;
-        case 1:
-            cell.text = newsFeedItem.content;
-    }
-	return cell;
-}
-
-/*
-- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-}
-*/
-/*
-- (void)tableView:(UITableView *)tableView commitEditingStyle:(UITableViewCellEditingStyle)editingStyle forRowAtIndexPath:(NSIndexPath *)indexPath {
-	
-	if (editingStyle == UITableViewCellEditingStyleDelete) {
-	}
-	if (editingStyle == UITableViewCellEditingStyleInsert) {
-	}
-}
-*/
-/*
-- (BOOL)tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath {
-	return YES;
-}
-*/
-/*
-- (void)tableView:(UITableView *)tableView moveRowAtIndexPath:(NSIndexPath *)fromIndexPath toIndexPath:(NSIndexPath *)toIndexPath {
-}
-*/
-/*
-- (BOOL)tableView:(UITableView *)tableView canMoveRowAtIndexPath:(NSIndexPath *)indexPath {
-	return YES;
-}
-*/
 
 
 - (void)dealloc {
+    [newsFeedItem release];
+    [authorLabel release];
+    [content release];
 	[super dealloc];
-}
-
-
-- (void)viewDidLoad {
-	[super viewDidLoad];
 }
 
 

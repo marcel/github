@@ -77,15 +77,11 @@
 	
 	NewsFeedItem *item;
     item = [newsFeedItems objectAtIndex:indexPath.row];
-    UIImageView *iconView;
-    iconView = [[UIImageView alloc] initWithImage:item.icon];
-    cell.icon           = iconView;
-    NSLog(@"Adding image: %@", iconView.image);
+    cell.icon.image     = item.icon;
     cell.title.text     = item.title;
     cell.author.text    = item.author;
     cell.published.text = @"1m ago";
     
-    [iconView release];
 	return cell;
 }
 

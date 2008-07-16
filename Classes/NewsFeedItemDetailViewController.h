@@ -9,8 +9,12 @@
 #import <UIKit/UIKit.h>
 #import "NewsFeedItem.h"
 
-@interface NewsFeedItemDetailViewController : UITableViewController {
+@interface NewsFeedItemDetailViewController : UIViewController {
     NewsFeedItem *newsFeedItem;
+    IBOutlet UILabel *authorLabel;
+    IBOutlet UIWebView *content;
 }
 @property (nonatomic, retain) NewsFeedItem *newsFeedItem;
+@property (nonatomic, retain) UILabel *authorLabel;
+@property (nonatomic, retain) UIWebView *content;
 @end
