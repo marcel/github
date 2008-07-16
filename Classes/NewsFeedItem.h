@@ -9,17 +9,19 @@
 #import <UIKit/UIKit.h>
 
 @interface NewsFeedItem : NSObject {
+    NSString *tag;
     NSDate *published;
     NSString *author;
     NSURL *url;
     NSString *title;
     NSString *content;
 }
-
+@property (nonatomic, retain) NSString *tag;
 @property (nonatomic, retain) NSDate *published;
 @property (nonatomic, retain) NSString *author;
 @property (nonatomic, retain) NSURL *url;
 @property (nonatomic, retain) NSString *title;
 @property (nonatomic, retain) NSString *content;
-//- (id)initFromAtomEntry:(AtomEntry *)atomEntry;
+
+- (UIImage *)icon;
 @end

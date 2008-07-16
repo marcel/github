@@ -72,6 +72,7 @@
 	
 	NewsFeedItem *item;
     item = [newsFeedItems objectAtIndex:indexPath.row];
+    cell.image = item.icon;
     cell.text = item.title;
 	return cell;
 }

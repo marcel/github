@@ -2,16 +2,16 @@
 {
 	1D3623240D0F684500981E51 /* GitHubAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {843, 633}}";
-			sepNavSelRange = "{164, 0}";
-			sepNavVisRange = "{0, 452}";
+			sepNavIntBoundsRect = "{{0, 0}, {955, 862}}";
+			sepNavSelRange = "{203, 0}";
+			sepNavVisRange = "{0, 516}";
 		};
 	};
 	1D3623250D0F684500981E51 /* GitHubAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {843, 752}}";
-			sepNavSelRange = "{234, 0}";
-			sepNavVisRange = "{85, 691}";
+			sepNavIntBoundsRect = "{{0, 0}, {955, 839}}";
+			sepNavSelRange = "{170, 0}";
+			sepNavVisRange = "{0, 614}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* GitHub */ = {
@@ -78,7 +78,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 125";
 		rLen = 0;
-		rLoc = 4448;
+		rLoc = 4145;
 		rType = 0;
 		vrLen = 587;
 		vrLoc = 0;
@@ -112,7 +112,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 125";
 		rLen = 0;
-		rLoc = 4448;
+		rLoc = 4145;
 		rType = 0;
 		vrLen = 587;
 		vrLoc = 0;
@@ -172,7 +172,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 125";
 		rLen = 0;
-		rLoc = 4448;
+		rLoc = 4145;
 		rType = 0;
 		vrLen = 975;
 		vrLoc = 0;
@@ -202,7 +202,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 125";
 		rLen = 0;
-		rLoc = 4448;
+		rLoc = 4145;
 		rType = 0;
 		vrLen = 975;
 		vrLoc = 0;
@@ -222,7 +222,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 113";
 		rLen = 0;
-		rLoc = 4108;
+		rLoc = 3751;
 		rType = 0;
 		vrLen = 951;
 		vrLoc = 0;
@@ -767,7 +767,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 234;
+		rLoc = 194;
 		rType = 0;
 		vrLen = 706;
 		vrLoc = 0;
@@ -887,7 +887,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 234;
+		rLoc = 194;
 		rType = 0;
 		vrLen = 680;
 		vrLoc = 0;
@@ -937,7 +937,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 234;
+		rLoc = 194;
 		rType = 0;
 		vrLen = 706;
 		vrLoc = 0;
@@ -1195,7 +1195,7 @@
 		comments = "warning: incomplete implementation of class 'NewsFeedTableViewController'";
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		rLen = 0;
-		rLoc = 168;
+		rLoc = 158;
 		rType = 1;
 	};
 	1F8DD8670E2D68B100364EA3 /* PBXTextBookmark */ = {
@@ -1213,7 +1213,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 158";
 		rLen = 5;
-		rLoc = 4442;
+		rLoc = 4139;
 		rType = 0;
 		vrLen = 0;
 		vrLoc = 4448;
@@ -1263,9 +1263,9 @@
 		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
 		name = "GitHubAppDelegate.h: 11";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 203;
 		rType = 0;
-		vrLen = 472;
+		vrLen = 452;
 		vrLoc = 0;
 	};
 	1F8DD8730E2D694100364EA3 /* PBXTextBookmark */ = {
@@ -1383,9 +1383,9 @@
 		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
 		name = "GitHubAppDelegate.h: 11";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 203;
 		rType = 0;
-		vrLen = 472;
+		vrLen = 452;
 		vrLoc = 0;
 	};
 	1F8DD87F0E2D694100364EA3 /* PBXTextBookmark */ = {
@@ -1463,7 +1463,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 158";
 		rLen = 5;
-		rLoc = 4442;
+		rLoc = 4139;
 		rType = 0;
 		vrLen = 0;
 		vrLoc = 4448;
@@ -1483,7 +1483,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1357;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1291;
 		vrLoc = 2059;
@@ -1527,7 +1527,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 56";
 		rLen = 0;
-		rLoc = 1646;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1413;
 		vrLoc = 1861;
@@ -1577,7 +1577,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 53";
 		rLen = 0;
-		rLoc = 1357;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1334;
 		vrLoc = 1861;
@@ -1627,7 +1627,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1336;
 		vrLoc = 1861;
@@ -1677,7 +1677,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1335;
 		vrLoc = 1861;
@@ -1781,7 +1781,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1332;
 		vrLoc = 1861;
@@ -1841,7 +1841,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1329;
 		vrLoc = 1861;
@@ -1901,7 +1901,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 55";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1377;
 		vrLoc = 1861;
@@ -1965,7 +1965,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 55";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1384;
 		vrLoc = 1861;
@@ -2105,7 +2105,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 55";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1259;
 		vrLoc = 1861;
@@ -2175,7 +2175,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 55";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1423;
 		vrLoc = 1861;
@@ -2245,7 +2245,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 55";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1377;
 		vrLoc = 1861;
@@ -2315,7 +2315,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 55";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1423;
 		vrLoc = 1861;
@@ -2389,7 +2389,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 59";
 		rLen = 0;
-		rLoc = 1646;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1400;
 		vrLoc = 1861;
@@ -2469,7 +2469,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1356;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1382;
 		vrLoc = 1861;
@@ -2549,7 +2549,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 61";
 		rLen = 0;
-		rLoc = 1645;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1411;
 		vrLoc = 1861;
@@ -2633,7 +2633,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 40";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2257;
 		vrLoc = 565;
@@ -2733,7 +2733,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 40";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2257;
 		vrLoc = 565;
@@ -2743,7 +2743,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 40";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2257;
 		vrLoc = 565;
@@ -2763,7 +2763,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 42";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2325;
 		vrLoc = 548;
@@ -2853,7 +2853,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 43";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2372;
 		vrLoc = 548;
@@ -2943,7 +2943,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 43";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2275;
 		vrLoc = 548;
@@ -3033,7 +3033,7 @@
 		comments = "error: syntax error before ')' token";
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		rLen = 0;
-		rLoc = 55;
+		rLoc = 52;
 		rType = 1;
 	};
 	1F8DD95A0E2D6F9A00364EA3 /* PBXTextBookmark */ = {
@@ -3041,7 +3041,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 44";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2310;
 		vrLoc = 548;
@@ -3131,7 +3131,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 44";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 869;
 		vrLoc = 1974;
@@ -3151,7 +3151,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 44";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 882;
 		vrLoc = 1974;
@@ -3242,7 +3242,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 44";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2432;
 		vrLoc = 548;
@@ -3252,7 +3252,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 44";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2432;
 		vrLoc = 548;
@@ -3272,7 +3272,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 40";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2359;
 		vrLoc = 565;
@@ -3372,7 +3372,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 43";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2318;
 		vrLoc = 565;
@@ -3475,8 +3475,8 @@
 		isa = PBXTextBookmark;
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 37";
-		rLen = 8;
-		rLoc = 1339;
+		rLen = 0;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 174;
 		vrLoc = 4274;
@@ -3486,7 +3486,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 44";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1210;
 		vrLoc = 2125;
@@ -3596,7 +3596,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 43";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1203;
 		vrLoc = 2125;
@@ -3693,17 +3693,17 @@
 	};
 	1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {715, 568}}";
-			sepNavSelRange = "{442, 0}";
-			sepNavVisRange = "{0, 595}";
+			sepNavIntBoundsRect = "{{0, 0}, {955, 839}}";
+			sepNavSelRange = "{622, 0}";
+			sepNavVisRange = "{0, 628}";
 			sepNavWindowFrame = "{{429, 476}, {774, 719}}";
 		};
 	};
 	1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {803, 568}}";
-			sepNavSelRange = "{559, 0}";
-			sepNavVisRange = "{0, 642}";
+			sepNavIntBoundsRect = "{{0, 0}, {955, 839}}";
+			sepNavSelRange = "{720, 0}";
+			sepNavVisRange = "{0, 878}";
 			sepNavWindowFrame = "{{429, 476}, {774, 719}}";
 		};
 	};
@@ -3712,7 +3712,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 44";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 959;
 		vrLoc = 1999;
@@ -3722,7 +3722,7 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 19";
 		rLen = 0;
-		rLoc = 290;
+		rLoc = 307;
 		rType = 0;
 		vrLen = 550;
 		vrLoc = 36;
@@ -3742,7 +3742,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 44";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 959;
 		vrLoc = 1999;
@@ -3762,7 +3762,7 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 19";
 		rLen = 0;
-		rLoc = 290;
+		rLoc = 307;
 		rType = 0;
 		vrLen = 550;
 		vrLoc = 36;
@@ -3791,8 +3791,8 @@
 		isa = PBXTextBookmark;
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 21";
-		rLen = 9;
-		rLoc = 579;
+		rLen = 0;
+		rLoc = 623;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -3804,7 +3804,7 @@
 		rLen = 12;
 		rLoc = 178;
 		rType = 0;
-		vrLen = 844;
+		vrLen = 639;
 		vrLoc = 3;
 	};
 	1F8DD9C50E2D757900364EA3 /* PBXTextBookmark */ = {
@@ -3812,7 +3812,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 52";
 		rLen = 0;
-		rLoc = 1494;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2535;
 		vrLoc = 421;
@@ -3822,9 +3822,9 @@
 		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
 		name = "GitHubAppDelegate.h: 11";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 203;
 		rType = 0;
-		vrLen = 472;
+		vrLen = 452;
 		vrLoc = 0;
 	};
 	1F8DD9C70E2D757900364EA3 /* PBXTextBookmark */ = {
@@ -3832,7 +3832,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 43";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1203;
 		vrLoc = 2125;
@@ -3862,7 +3862,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 43";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1203;
 		vrLoc = 2125;
@@ -3872,7 +3872,7 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 19";
 		rLen = 0;
-		rLoc = 589;
+		rLoc = 623;
 		rType = 0;
 		vrLen = 417;
 		vrLoc = 0;
@@ -3882,7 +3882,7 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 21";
 		rLen = 0;
-		rLoc = 634;
+		rLoc = 870;
 		rType = 0;
 		vrLen = 366;
 		vrLoc = 0;
@@ -3891,8 +3891,8 @@
 		isa = PBXTextBookmark;
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 21";
-		rLen = 9;
-		rLoc = 579;
+		rLen = 0;
+		rLoc = 623;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -3904,7 +3904,7 @@
 		rLen = 12;
 		rLoc = 178;
 		rType = 0;
-		vrLen = 844;
+		vrLen = 639;
 		vrLoc = 3;
 	};
 	1F8DD9CF0E2D757900364EA3 /* PBXTextBookmark */ = {
@@ -3912,7 +3912,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 52";
 		rLen = 0;
-		rLoc = 1494;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2535;
 		vrLoc = 421;
@@ -3922,9 +3922,9 @@
 		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
 		name = "GitHubAppDelegate.h: 11";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 203;
 		rType = 0;
-		vrLen = 472;
+		vrLen = 452;
 		vrLoc = 0;
 	};
 	1F8DD9D10E2D757900364EA3 /* PBXTextBookmark */ = {
@@ -3932,7 +3932,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 234;
+		rLoc = 194;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -3952,7 +3952,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 43";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 2125;
@@ -3962,7 +3962,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 43";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 2125;
@@ -3982,7 +3982,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 47";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1122;
 		vrLoc = 2150;
@@ -4082,7 +4082,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 234;
+		rLoc = 194;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -4092,7 +4092,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 52";
 		rLen = 0;
-		rLoc = 1494;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2534;
 		vrLoc = 422;
@@ -4102,7 +4102,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 234;
+		rLoc = 194;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -4112,7 +4112,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 52";
 		rLen = 0;
-		rLoc = 1494;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2534;
 		vrLoc = 422;
@@ -4122,9 +4122,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 28";
 		rLen = 0;
-		rLoc = 317;
+		rLoc = 334;
 		rType = 0;
-		vrLen = 850;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DD9E80E2D759200364EA3 /* PBXTextBookmark */ = {
@@ -4132,7 +4132,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 47";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1122;
 		vrLoc = 2150;
@@ -4232,9 +4232,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 28";
 		rLen = 0;
-		rLoc = 317;
+		rLoc = 334;
 		rType = 0;
-		vrLen = 850;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DD9F30E2D776F00364EA3 /* PBXTextBookmark */ = {
@@ -4262,9 +4262,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 28";
 		rLen = 0;
-		rLoc = 317;
+		rLoc = 334;
 		rType = 0;
-		vrLen = 850;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DD9F60E2D776F00364EA3 /* PBXTextBookmark */ = {
@@ -4302,7 +4302,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 50";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1173;
 		vrLoc = 728;
@@ -4422,7 +4422,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 877;
 		vrLoc = 728;
@@ -4512,7 +4512,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 61";
 		rLen = 0;
-		rLoc = 1671;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 965;
 		vrLoc = 791;
@@ -4532,7 +4532,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 900;
 		vrLoc = 728;
@@ -4632,7 +4632,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 61";
 		rLen = 0;
-		rLoc = 1671;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 840;
 		vrLoc = 791;
@@ -4642,7 +4642,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 61";
 		rLen = 0;
-		rLoc = 1671;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 840;
 		vrLoc = 791;
@@ -4662,7 +4662,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 61";
 		rLen = 0;
-		rLoc = 1662;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 852;
 		vrLoc = 790;
@@ -4682,7 +4682,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 830;
 		vrLoc = 728;
@@ -4792,7 +4792,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 850;
 		vrLoc = 788;
@@ -4882,7 +4882,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 58";
 		rLen = 0;
-		rLoc = 1577;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 983;
 		vrLoc = 829;
@@ -4902,7 +4902,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 814;
 		vrLoc = 788;
@@ -4992,7 +4992,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 58";
 		rLen = 0;
-		rLoc = 1568;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 980;
 		vrLoc = 829;
@@ -5012,7 +5012,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 814;
 		vrLoc = 788;
@@ -5142,7 +5142,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 914;
 		vrLoc = 697;
@@ -5252,7 +5252,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 58";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1091;
 		vrLoc = 615;
@@ -5362,7 +5362,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 58";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1115;
 		vrLoc = 615;
@@ -5472,7 +5472,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 69";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1096;
 		vrLoc = 615;
@@ -5562,7 +5562,7 @@
 		comments = "warning: passing argument 1 of 'setText:' from distinct Objective-C type";
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		rLen = 1;
-		rLoc = 88;
+		rLoc = 75;
 		rType = 1;
 	};
 	1F8DDA8E0E2D7FD000364EA3 /* PBXTextBookmark */ = {
@@ -5590,7 +5590,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 103";
 		rLen = 0;
-		rLoc = 2372;
+		rLoc = 2015;
 		rType = 0;
 		vrLen = 2005;
 		vrLoc = 615;
@@ -5650,7 +5650,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 70";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 2269;
 		vrLoc = 615;
@@ -5788,7 +5788,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 69";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1118;
 		vrLoc = 615;
@@ -5898,7 +5898,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 69";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1084;
 		vrLoc = 615;
@@ -6008,7 +6008,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 69";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 1059;
 		vrLoc = 615;
@@ -6088,7 +6088,7 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 20";
 		rLen = 0;
-		rLoc = 542;
+		rLoc = 623;
 		rType = 0;
 		vrLen = 457;
 		vrLoc = 0;
@@ -6098,7 +6098,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 234;
+		rLoc = 194;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -6108,7 +6108,7 @@
 		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
 		name = "GitHubAppDelegate.h: 10";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 203;
 		rType = 0;
 		vrLen = 452;
 		vrLoc = 0;
@@ -6117,8 +6117,8 @@
 		isa = PBXTextBookmark;
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 64";
-		rLen = 48;
-		rLoc = 1309;
+		rLen = 0;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 941;
 		vrLoc = 1101;
@@ -6128,9 +6128,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 30";
 		rLen = 0;
-		rLoc = 470;
+		rLoc = 496;
 		rType = 0;
-		vrLen = 844;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DDACE0E2D827A00364EA3 /* PBXTextBookmark */ = {
@@ -6138,7 +6138,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 178";
 		rLen = 0;
-		rLoc = 4442;
+		rLoc = 4139;
 		rType = 0;
 		vrLen = 473;
 		vrLoc = 3975;
@@ -6158,7 +6158,7 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 20";
 		rLen = 0;
-		rLoc = 542;
+		rLoc = 623;
 		rType = 0;
 		vrLen = 457;
 		vrLoc = 0;
@@ -6168,9 +6168,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 30";
 		rLen = 0;
-		rLoc = 470;
+		rLoc = 496;
 		rType = 0;
-		vrLen = 844;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DDAD20E2D827A00364EA3 /* PBXTextBookmark */ = {
@@ -6178,7 +6178,7 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 20";
 		rLen = 0;
-		rLoc = 542;
+		rLoc = 623;
 		rType = 0;
 		vrLen = 457;
 		vrLoc = 0;
@@ -6188,7 +6188,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 234;
+		rLoc = 194;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -6198,7 +6198,7 @@
 		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
 		name = "GitHubAppDelegate.h: 10";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 203;
 		rType = 0;
 		vrLen = 452;
 		vrLoc = 0;
@@ -6207,8 +6207,8 @@
 		isa = PBXTextBookmark;
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 64";
-		rLen = 48;
-		rLoc = 1309;
+		rLen = 0;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 941;
 		vrLoc = 1101;
@@ -6218,9 +6218,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 30";
 		rLen = 0;
-		rLoc = 470;
+		rLoc = 496;
 		rType = 0;
-		vrLen = 827;
+		vrLen = 620;
 		vrLoc = 22;
 	};
 	1F8DDAD70E2D827A00364EA3 /* PBXTextBookmark */ = {
@@ -6228,7 +6228,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 65";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 961;
 		vrLoc = 615;
@@ -6238,7 +6238,7 @@
 		comments = "warning: 'NSURL' may not respond to '-href'";
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		rLen = 1;
-		rLoc = 88;
+		rLoc = 75;
 		rType = 1;
 	};
 	1F8DDADA0E2D828000364EA3 /* PBXTextBookmark */ = {
@@ -6246,7 +6246,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 98";
 		rLen = 0;
-		rLoc = 2372;
+		rLoc = 2015;
 		rType = 0;
 		vrLen = 837;
 		vrLoc = 2169;
@@ -6256,9 +6256,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 30";
 		rLen = 0;
-		rLoc = 470;
+		rLoc = 496;
 		rType = 0;
-		vrLen = 827;
+		vrLen = 620;
 		vrLoc = 22;
 	};
 	1F8DDADC0E2D828A00364EA3 /* PBXTextBookmark */ = {
@@ -6266,7 +6266,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 65";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 961;
 		vrLoc = 615;
@@ -6280,9 +6280,9 @@
 	};
 	1F8DDADE0E2D832700364EA3 /* FeedParser.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {955, 2368}}";
-			sepNavSelRange = "{3638, 0}";
-			sepNavVisRange = "{0, 1319}";
+			sepNavIntBoundsRect = "{{0, 0}, {955, 2400}}";
+			sepNavSelRange = "{3500, 0}";
+			sepNavVisRange = "{2512, 1767}";
 			sepNavWindowFrame = "{{452, 455}, {774, 719}}";
 		};
 	};
@@ -6301,7 +6301,7 @@
 		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
 		name = "GitHubAppDelegate.h: 10";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 203;
 		rType = 0;
 		vrLen = 452;
 		vrLoc = 0;
@@ -6311,7 +6311,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 234;
+		rLoc = 194;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 85;
@@ -6331,7 +6331,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 70";
 		rLen = 0;
-		rLoc = 2744;
+		rLoc = 2751;
 		rType = 0;
 		vrLen = 945;
 		vrLoc = 799;
@@ -6341,9 +6341,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 16";
 		rLen = 0;
-		rLoc = 290;
+		rLoc = 307;
 		rType = 0;
-		vrLen = 868;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DDAE80E2D968300364EA3 /* PBXTextBookmark */ = {
@@ -6351,7 +6351,7 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 21";
 		rLen = 0;
-		rLoc = 539;
+		rLoc = 622;
 		rType = 0;
 		vrLen = 525;
 		vrLoc = 0;
@@ -6361,9 +6361,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 30";
 		rLen = 0;
-		rLoc = 470;
+		rLoc = 496;
 		rType = 0;
-		vrLen = 846;
+		vrLen = 639;
 		vrLoc = 3;
 	};
 	1F8DDAEA0E2D968300364EA3 /* PBXTextBookmark */ = {
@@ -6411,7 +6411,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 23";
 		rLen = 0;
-		rLoc = 4159;
+		rLoc = 4274;
 		rType = 0;
 		vrLen = 487;
 		vrLoc = 0;
@@ -6431,7 +6431,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 25";
 		rLen = 0;
-		rLoc = 715;
+		rLoc = 722;
 		rType = 0;
 		vrLen = 751;
 		vrLoc = 0;
@@ -6441,7 +6441,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 234;
+		rLoc = 194;
 		rType = 0;
 		vrLen = 615;
 		vrLoc = 136;
@@ -6451,7 +6451,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 28";
 		rLen = 13;
-		rLoc = 892;
+		rLoc = 899;
 		rType = 0;
 		vrLen = 800;
 		vrLoc = 34;
@@ -6551,7 +6551,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 25";
 		rLen = 0;
-		rLoc = 627;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 761;
 		vrLoc = 0;
@@ -6591,7 +6591,7 @@
 		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
 		name = "GitHubAppDelegate.h: 10";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 203;
 		rType = 0;
 		vrLen = 452;
 		vrLoc = 0;
@@ -6601,7 +6601,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 234;
+		rLoc = 194;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 85;
@@ -6611,7 +6611,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 58";
 		rLen = 0;
-		rLoc = 2081;
+		rLoc = 2088;
 		rType = 0;
 		vrLen = 755;
 		vrLoc = 0;
@@ -6631,7 +6631,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 67";
 		rLen = 0;
-		rLoc = 2744;
+		rLoc = 2751;
 		rType = 0;
 		vrLen = 755;
 		vrLoc = 0;
@@ -6651,7 +6651,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 28";
 		rLen = 0;
-		rLoc = 627;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 789;
 		vrLoc = 0;
@@ -6671,7 +6671,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 70";
 		rLen = 0;
-		rLoc = 2744;
+		rLoc = 2751;
 		rType = 0;
 		vrLen = 945;
 		vrLoc = 799;
@@ -6681,7 +6681,7 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 21";
 		rLen = 0;
-		rLoc = 539;
+		rLoc = 622;
 		rType = 0;
 		vrLen = 525;
 		vrLoc = 0;
@@ -6691,9 +6691,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 16";
 		rLen = 0;
-		rLoc = 290;
+		rLoc = 307;
 		rType = 0;
-		vrLen = 868;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DDB0B0E2D968300364EA3 /* PBXTextBookmark */ = {
@@ -6701,7 +6701,7 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 21";
 		rLen = 0;
-		rLoc = 539;
+		rLoc = 622;
 		rType = 0;
 		vrLen = 525;
 		vrLoc = 0;
@@ -6711,7 +6711,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 58";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 997;
 		vrLoc = 615;
@@ -6721,9 +6721,9 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 23";
 		rLen = 0;
-		rLoc = 539;
+		rLoc = 622;
 		rType = 0;
-		vrLen = 597;
+		vrLen = 595;
 		vrLoc = 0;
 	};
 	1F8DDB0E0E2D96BB00364EA3 /* PBXTextBookmark */ = {
@@ -6731,9 +6731,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 16";
 		rLen = 0;
-		rLoc = 290;
+		rLoc = 307;
 		rType = 0;
-		vrLen = 863;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DDB0F0E2D96BB00364EA3 /* PBXTextBookmark */ = {
@@ -6741,7 +6741,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 70";
 		rLen = 0;
-		rLoc = 2744;
+		rLoc = 2751;
 		rType = 0;
 		vrLen = 945;
 		vrLoc = 799;
@@ -6751,7 +6751,7 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 21";
 		rLen = 0;
-		rLoc = 539;
+		rLoc = 622;
 		rType = 0;
 		vrLen = 525;
 		vrLoc = 0;
@@ -6761,9 +6761,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 16";
 		rLen = 0;
-		rLoc = 290;
+		rLoc = 307;
 		rType = 0;
-		vrLen = 863;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DDB120E2D96BB00364EA3 /* PBXTextBookmark */ = {
@@ -6771,7 +6771,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 70";
 		rLen = 0;
-		rLoc = 2744;
+		rLoc = 2751;
 		rType = 0;
 		vrLen = 929;
 		vrLoc = 815;
@@ -6781,9 +6781,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 16";
 		rLen = 0;
-		rLoc = 290;
+		rLoc = 307;
 		rType = 0;
-		vrLen = 863;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DDB140E2D96BB00364EA3 /* PBXTextBookmark */ = {
@@ -6791,9 +6791,9 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 23";
 		rLen = 0;
-		rLoc = 539;
+		rLoc = 622;
 		rType = 0;
-		vrLen = 597;
+		vrLen = 595;
 		vrLoc = 0;
 	};
 	1F8DDB150E2D96BB00364EA3 /* PBXTextBookmark */ = {
@@ -6801,9 +6801,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 16";
 		rLen = 0;
-		rLoc = 290;
+		rLoc = 307;
 		rType = 0;
-		vrLen = 863;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DDB160E2D96BB00364EA3 /* PBXTextBookmark */ = {
@@ -6811,7 +6811,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 70";
 		rLen = 0;
-		rLoc = 2744;
+		rLoc = 2751;
 		rType = 0;
 		vrLen = 945;
 		vrLoc = 799;
@@ -6821,7 +6821,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 58";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 997;
 		vrLoc = 615;
@@ -6831,9 +6831,9 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 23";
 		rLen = 0;
-		rLoc = 539;
+		rLoc = 622;
 		rType = 0;
-		vrLen = 597;
+		vrLen = 595;
 		vrLoc = 0;
 	};
 	1F8DDB190E2D987900364EA3 /* PBXTextBookmark */ = {
@@ -6841,9 +6841,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 16";
 		rLen = 0;
-		rLoc = 290;
+		rLoc = 307;
 		rType = 0;
-		vrLen = 846;
+		vrLen = 620;
 		vrLoc = 22;
 	};
 	1F8DDB1A0E2D987900364EA3 /* PBXTextBookmark */ = {
@@ -6861,7 +6861,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 90";
 		rLen = 0;
-		rLoc = 4136;
+		rLoc = 4251;
 		rType = 0;
 		vrLen = 1077;
 		vrLoc = 1090;
@@ -6871,7 +6871,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 73";
 		rLen = 0;
-		rLoc = 3868;
+		rLoc = 3983;
 		rType = 0;
 		vrLen = 815;
 		vrLoc = 0;
@@ -6891,7 +6891,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 74";
 		rLen = 0;
-		rLoc = 3323;
+		rLoc = 3330;
 		rType = 0;
 		vrLen = 998;
 		vrLoc = 798;
@@ -6901,9 +6901,9 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 23";
 		rLen = 0;
-		rLoc = 539;
+		rLoc = 622;
 		rType = 0;
-		vrLen = 597;
+		vrLen = 595;
 		vrLoc = 0;
 	};
 	1F8DDB200E2D987900364EA3 /* PBXTextBookmark */ = {
@@ -6911,9 +6911,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 16";
 		rLen = 0;
-		rLoc = 290;
+		rLoc = 307;
 		rType = 0;
-		vrLen = 846;
+		vrLen = 620;
 		vrLoc = 22;
 	};
 	1F8DDB210E2D987900364EA3 /* PBXTextBookmark */ = {
@@ -6921,7 +6921,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 83";
 		rLen = 0;
-		rLoc = 3979;
+		rLoc = 4094;
 		rType = 0;
 		vrLen = 1011;
 		vrLoc = 1132;
@@ -6941,7 +6941,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 83";
 		rLen = 0;
-		rLoc = 3979;
+		rLoc = 4094;
 		rType = 0;
 		vrLen = 1053;
 		vrLoc = 1090;
@@ -6961,7 +6961,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 90";
 		rLen = 0;
-		rLoc = 4136;
+		rLoc = 4251;
 		rType = 0;
 		vrLen = 1077;
 		vrLoc = 1090;
@@ -6981,7 +6981,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 80";
 		rLen = 0;
-		rLoc = 3408;
+		rLoc = 3523;
 		rType = 0;
 		vrLen = 1000;
 		vrLoc = 1228;
@@ -6991,7 +6991,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 58";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 997;
 		vrLoc = 615;
@@ -7001,7 +7001,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 94";
 		rLen = 0;
-		rLoc = 4005;
+		rLoc = 4120;
 		rType = 0;
 		vrLen = 1199;
 		vrLoc = 1090;
@@ -7011,7 +7011,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 58";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 997;
 		vrLoc = 615;
@@ -7021,7 +7021,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 95";
 		rLen = 0;
-		rLoc = 3868;
+		rLoc = 3983;
 		rType = 0;
 		vrLen = 1147;
 		vrLoc = 1437;
@@ -7031,7 +7031,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 58";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 997;
 		vrLoc = 615;
@@ -7041,7 +7041,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 104";
 		rLen = 0;
-		rLoc = 3728;
+		rLoc = 3843;
 		rType = 0;
 		vrLen = 1026;
 		vrLoc = 1983;
@@ -7051,7 +7051,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 58";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 997;
 		vrLoc = 615;
@@ -7061,7 +7061,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 87";
 		rLen = 0;
-		rLoc = 2372;
+		rLoc = 2015;
 		rType = 0;
 		vrLen = 840;
 		vrLoc = 2154;
@@ -7071,7 +7071,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 88";
 		rLen = 0;
-		rLoc = 3408;
+		rLoc = 3523;
 		rType = 0;
 		vrLen = 512;
 		vrLoc = 0;
@@ -7091,7 +7091,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 87";
 		rLen = 0;
-		rLoc = 2372;
+		rLoc = 2015;
 		rType = 0;
 		vrLen = 840;
 		vrLoc = 2154;
@@ -7101,7 +7101,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 85";
 		rLen = 0;
-		rLoc = 3345;
+		rLoc = 3352;
 		rType = 0;
 		vrLen = 736;
 		vrLoc = 1718;
@@ -7121,7 +7121,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 85";
 		rLen = 19;
-		rLoc = 3303;
+		rLoc = 3310;
 		rType = 0;
 		vrLen = 725;
 		vrLoc = 1677;
@@ -7141,7 +7141,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 88";
 		rLen = 0;
-		rLoc = 3408;
+		rLoc = 3523;
 		rType = 0;
 		vrLen = 512;
 		vrLoc = 0;
@@ -7171,7 +7171,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 71";
 		rLen = 0;
-		rLoc = 2357;
+		rLoc = 2364;
 		rType = 0;
 		vrLen = 743;
 		vrLoc = 1175;
@@ -7191,7 +7191,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 71";
 		rLen = 0;
-		rLoc = 2357;
+		rLoc = 2364;
 		rType = 0;
 		vrLen = 743;
 		vrLoc = 1175;
@@ -7211,7 +7211,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 69";
 		rLen = 0;
-		rLoc = 2318;
+		rLoc = 2325;
 		rType = 0;
 		vrLen = 736;
 		vrLoc = 941;
@@ -7251,7 +7251,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 104";
 		rLen = 0;
-		rLoc = 3728;
+		rLoc = 3843;
 		rType = 0;
 		vrLen = 874;
 		vrLoc = 133;
@@ -7301,7 +7301,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 926;
 		vrLoc = 638;
@@ -7321,7 +7321,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 54";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 926;
 		vrLoc = 638;
@@ -7341,7 +7341,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 55";
 		rLen = 0;
-		rLoc = 1403;
+		rLoc = 1305;
 		rType = 0;
 		vrLen = 983;
 		vrLoc = 638;
@@ -7365,9 +7365,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 17";
 		rLen = 0;
-		rLoc = 290;
+		rLoc = 307;
 		rType = 0;
-		vrLen = 644;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DDB620E2D9D0000364EA3 /* PBXTextBookmark */ = {
@@ -7375,7 +7375,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 74";
 		rLen = 0;
-		rLoc = 2318;
+		rLoc = 2325;
 		rType = 0;
 		vrLen = 706;
 		vrLoc = 941;
@@ -7385,7 +7385,7 @@
 		comments = "error: request for member 'link' in something not a structure or union";
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		rLen = 1;
-		rLoc = 88;
+		rLoc = 75;
 		rType = 1;
 	};
 	1F8DDB640E2D9D0000364EA3 /* PBXTextBookmark */ = {
@@ -7393,7 +7393,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 74";
 		rLen = 0;
-		rLoc = 2318;
+		rLoc = 2325;
 		rType = 0;
 		vrLen = 706;
 		vrLoc = 941;
@@ -7403,7 +7403,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 88";
 		rLen = 0;
-		rLoc = 2372;
+		rLoc = 2015;
 		rType = 0;
 		vrLen = 835;
 		vrLoc = 1836;
@@ -7413,7 +7413,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 56";
 		rLen = 0;
-		rLoc = 1533;
+		rLoc = 1540;
 		rType = 0;
 		vrLen = 1075;
 		vrLoc = 781;
@@ -7443,7 +7443,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 56";
 		rLen = 0;
-		rLoc = 1533;
+		rLoc = 1540;
 		rType = 0;
 		vrLen = 1075;
 		vrLoc = 781;
@@ -7463,7 +7463,7 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 21";
 		rLen = 0;
-		rLoc = 442;
+		rLoc = 505;
 		rType = 0;
 		vrLen = 595;
 		vrLoc = 0;
@@ -7473,9 +7473,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 27";
 		rLen = 0;
-		rLoc = 569;
+		rLoc = 805;
 		rType = 0;
-		vrLen = 644;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DDB6E0E2D9D3600364EA3 /* PBXTextBookmark */ = {
@@ -7483,9 +7483,9 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 27";
 		rLen = 0;
-		rLoc = 569;
+		rLoc = 805;
 		rType = 0;
-		vrLen = 644;
+		vrLen = 642;
 		vrLoc = 0;
 	};
 	1F8DDB6F0E2D9D3600364EA3 /* PBXTextBookmark */ = {
@@ -7493,7 +7493,7 @@
 		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
 		name = "NewsFeedItem.h: 21";
 		rLen = 0;
-		rLoc = 442;
+		rLoc = 505;
 		rType = 0;
 		vrLen = 595;
 		vrLoc = 0;
@@ -7503,7 +7503,7 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 27";
 		rLen = 0;
-		rLoc = 559;
+		rLoc = 795;
 		rType = 0;
 		vrLen = 642;
 		vrLoc = 0;
@@ -7513,7 +7513,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 89";
 		rLen = 0;
-		rLoc = 2383;
+		rLoc = 2026;
 		rType = 0;
 		vrLen = 991;
 		vrLoc = 1535;
@@ -7523,7 +7523,7 @@
 		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
 		name = "NewsFeedItem.m: 27";
 		rLen = 0;
-		rLoc = 559;
+		rLoc = 795;
 		rType = 0;
 		vrLen = 642;
 		vrLoc = 0;
@@ -7533,7 +7533,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 89";
 		rLen = 0;
-		rLoc = 2383;
+		rLoc = 2026;
 		rType = 0;
 		vrLen = 991;
 		vrLoc = 1535;
@@ -7543,7 +7543,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 56";
 		rLen = 0;
-		rLoc = 1533;
+		rLoc = 1540;
 		rType = 0;
 		vrLen = 1027;
 		vrLoc = 829;
@@ -7553,7 +7553,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 89";
 		rLen = 0;
-		rLoc = 2383;
+		rLoc = 2026;
 		rType = 0;
 		vrLen = 991;
 		vrLoc = 1535;
@@ -7563,7 +7563,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 93";
 		rLen = 0;
-		rLoc = 3408;
+		rLoc = 3523;
 		rType = 0;
 		vrLen = 1183;
 		vrLoc = 1647;
@@ -7573,7 +7573,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 58";
 		rLen = 16;
-		rLoc = 1676;
+		rLoc = 1683;
 		rType = 0;
 		vrLen = 1165;
 		vrLoc = 992;
@@ -7583,7 +7583,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 89";
 		rLen = 0;
-		rLoc = 3094;
+		rLoc = 3101;
 		rType = 0;
 		vrLen = 1225;
 		vrLoc = 1535;
@@ -7613,7 +7613,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 30";
 		rLen = 0;
-		rLoc = 627;
+		rLoc = 634;
 		rType = 0;
 		vrLen = 863;
 		vrLoc = 3;
@@ -7633,7 +7633,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 127";
 		rLen = 0;
-		rLoc = 4136;
+		rLoc = 4251;
 		rType = 0;
 		vrLen = 947;
 		vrLoc = 0;
@@ -7673,7 +7673,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 89";
 		rLen = 0;
-		rLoc = 2532;
+		rLoc = 2539;
 		rType = 0;
 		vrLen = 1581;
 		vrLoc = 1297;
@@ -7683,7 +7683,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 88";
 		rLen = 0;
-		rLoc = 2532;
+		rLoc = 2539;
 		rType = 0;
 		vrLen = 1630;
 		vrLoc = 1114;
@@ -7693,7 +7693,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 95";
 		rLen = 0;
-		rLoc = 2582;
+		rLoc = 2589;
 		rType = 0;
 		vrLen = 1655;
 		vrLoc = 1612;
@@ -7703,7 +7703,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 91";
 		rLen = 0;
-		rLoc = 2474;
+		rLoc = 2481;
 		rType = 0;
 		vrLen = 1543;
 		vrLoc = 1797;
@@ -7713,7 +7713,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 110";
 		rLen = 0;
-		rLoc = 3338;
+		rLoc = 3345;
 		rType = 0;
 		vrLen = 1565;
 		vrLoc = 1652;
@@ -7723,7 +7723,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 152";
 		rLen = 0;
-		rLoc = 4011;
+		rLoc = 4126;
 		rType = 0;
 		vrLen = 1421;
 		vrLoc = 2531;
@@ -7733,7 +7733,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 38";
 		rLen = 0;
-		rLoc = 745;
+		rLoc = 752;
 		rType = 0;
 		vrLen = 1337;
 		vrLoc = 320;
@@ -7743,7 +7743,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 89";
 		rLen = 0;
-		rLoc = 2383;
+		rLoc = 2026;
 		rType = 0;
 		vrLen = 917;
 		vrLoc = 2059;
@@ -7763,7 +7763,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 64";
 		rLen = 0;
-		rLoc = 1675;
+		rLoc = 1682;
 		rType = 0;
 		vrLen = 705;
 		vrLoc = 1202;
@@ -7773,7 +7773,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
 		name = "NewsFeedTableViewController.m: 89";
 		rLen = 0;
-		rLoc = 2383;
+		rLoc = 2026;
 		rType = 0;
 		vrLen = 917;
 		vrLoc = 2059;
@@ -7783,7 +7783,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 64";
 		rLen = 0;
-		rLoc = 1675;
+		rLoc = 1682;
 		rType = 0;
 		vrLen = 705;
 		vrLoc = 1202;
@@ -7803,7 +7803,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 70";
 		rLen = 0;
-		rLoc = 1902;
+		rLoc = 1909;
 		rType = 0;
 		vrLen = 739;
 		vrLoc = 1241;
@@ -7823,7 +7823,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 38";
 		rLen = 0;
-		rLoc = 745;
+		rLoc = 752;
 		rType = 0;
 		vrLen = 1202;
 		vrLoc = 0;
@@ -7833,7 +7833,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 38";
 		rLen = 0;
-		rLoc = 745;
+		rLoc = 752;
 		rType = 0;
 		vrLen = 1202;
 		vrLoc = 0;
@@ -7853,7 +7853,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 148";
 		rLen = 0;
-		rLoc = 4011;
+		rLoc = 4126;
 		rType = 0;
 		vrLen = 1313;
 		vrLoc = 2852;
@@ -7863,7 +7863,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 99";
 		rLen = 0;
-		rLoc = 2532;
+		rLoc = 2539;
 		rType = 0;
 		vrLen = 1518;
 		vrLoc = 1509;
@@ -7873,7 +7873,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 121";
 		rLen = 0;
-		rLoc = 3413;
+		rLoc = 3528;
 		rType = 0;
 		vrLen = 1615;
 		vrLoc = 2007;
@@ -7883,7 +7883,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 97";
 		rLen = 0;
-		rLoc = 2474;
+		rLoc = 2481;
 		rType = 0;
 		vrLen = 1714;
 		vrLoc = 1996;
@@ -7893,7 +7893,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 80";
 		rLen = 0;
-		rLoc = 2217;
+		rLoc = 2224;
 		rType = 0;
 		vrLen = 1587;
 		vrLoc = 1665;
@@ -7903,7 +7903,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 95";
 		rLen = 0;
-		rLoc = 2474;
+		rLoc = 2481;
 		rType = 0;
 		vrLen = 1606;
 		vrLoc = 1496;
@@ -7913,7 +7913,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 70";
 		rLen = 0;
-		rLoc = 1902;
+		rLoc = 1909;
 		rType = 0;
 		vrLen = 1624;
 		vrLoc = 1490;
@@ -7923,7 +7923,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 85";
 		rLen = 0;
-		rLoc = 2217;
+		rLoc = 2224;
 		rType = 0;
 		vrLen = 1549;
 		vrLoc = 1490;
@@ -7933,7 +7933,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 113";
 		rLen = 0;
-		rLoc = 3094;
+		rLoc = 3101;
 		rType = 0;
 		vrLen = 1557;
 		vrLoc = 2050;
@@ -7943,7 +7943,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 84";
 		rLen = 0;
-		rLoc = 2217;
+		rLoc = 2224;
 		rType = 0;
 		vrLen = 1481;
 		vrLoc = 1099;
@@ -7953,7 +7953,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 88";
 		rLen = 0;
-		rLoc = 2271;
+		rLoc = 2278;
 		rType = 0;
 		vrLen = 1600;
 		vrLoc = 1315;
@@ -7981,7 +7981,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 136";
 		rLen = 0;
-		rLoc = 3868;
+		rLoc = 3983;
 		rType = 0;
 		vrLen = 1512;
 		vrLoc = 2482;
@@ -7991,7 +7991,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 88";
 		rLen = 0;
-		rLoc = 2271;
+		rLoc = 2278;
 		rType = 0;
 		vrLen = 1509;
 		vrLoc = 541;
@@ -8011,7 +8011,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 136";
 		rLen = 0;
-		rLoc = 3868;
+		rLoc = 3983;
 		rType = 0;
 		vrLen = 1512;
 		vrLoc = 2482;
@@ -8071,7 +8071,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 104";
 		rLen = 0;
-		rLoc = 2710;
+		rLoc = 2717;
 		rType = 0;
 		vrLen = 1560;
 		vrLoc = 1888;
@@ -8081,7 +8081,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 93";
 		rLen = 0;
-		rLoc = 2474;
+		rLoc = 2481;
 		rType = 0;
 		vrLen = 1503;
 		vrLoc = 1652;
@@ -8091,7 +8091,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 100";
 		rLen = 0;
-		rLoc = 2532;
+		rLoc = 2539;
 		rType = 0;
 		vrLen = 1508;
 		vrLoc = 1896;
@@ -8101,7 +8101,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 115";
 		rLen = 0;
-		rLoc = 3094;
+		rLoc = 3101;
 		rType = 0;
 		vrLen = 1640;
 		vrLoc = 2062;
@@ -8111,7 +8111,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 125";
 		rLen = 0;
-		rLoc = 3867;
+		rLoc = 3982;
 		rType = 0;
 		vrLen = 1566;
 		vrLoc = 2190;
@@ -8121,7 +8121,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 115";
 		rLen = 0;
-		rLoc = 3408;
+		rLoc = 3523;
 		rType = 0;
 		vrLen = 1566;
 		vrLoc = 2190;
@@ -8131,7 +8131,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 98";
 		rLen = 0;
-		rLoc = 2532;
+		rLoc = 2539;
 		rType = 0;
 		vrLen = 1562;
 		vrLoc = 2190;
@@ -8141,7 +8141,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 99";
 		rLen = 0;
-		rLoc = 2532;
+		rLoc = 2539;
 		rType = 0;
 		vrLen = 1577;
 		vrLoc = 2190;
@@ -8151,7 +8151,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 115";
 		rLen = 0;
-		rLoc = 3408;
+		rLoc = 3523;
 		rType = 0;
 		vrLen = 1570;
 		vrLoc = 2192;
@@ -8161,7 +8161,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 99";
 		rLen = 0;
-		rLoc = 2532;
+		rLoc = 2539;
 		rType = 0;
 		vrLen = 1647;
 		vrLoc = 1935;
@@ -8171,7 +8171,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 99";
 		rLen = 0;
-		rLoc = 2532;
+		rLoc = 2539;
 		rType = 0;
 		vrLen = 1648;
 		vrLoc = 1935;
@@ -8181,7 +8181,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 61";
 		rLen = 0;
-		rLoc = 1532;
+		rLoc = 1539;
 		rType = 0;
 		vrLen = 1343;
 		vrLoc = 883;
@@ -8191,7 +8191,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 62";
 		rLen = 0;
-		rLoc = 1532;
+		rLoc = 1539;
 		rType = 0;
 		vrLen = 1375;
 		vrLoc = 883;
@@ -8201,7 +8201,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 59";
 		rLen = 0;
-		rLoc = 1316;
+		rLoc = 1323;
 		rType = 0;
 		vrLen = 1532;
 		vrLoc = 500;
@@ -8211,7 +8211,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 59";
 		rLen = 0;
-		rLoc = 1316;
+		rLoc = 1323;
 		rType = 0;
 		vrLen = 1635;
 		vrLoc = 500;
@@ -8221,7 +8221,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 55";
 		rLen = 0;
-		rLoc = 1149;
+		rLoc = 1156;
 		rType = 0;
 		vrLen = 1531;
 		vrLoc = 500;
@@ -8231,7 +8231,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 57";
 		rLen = 0;
-		rLoc = 1245;
+		rLoc = 1252;
 		rType = 0;
 		vrLen = 1584;
 		vrLoc = 500;
@@ -8241,7 +8241,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 68";
 		rLen = 0;
-		rLoc = 1532;
+		rLoc = 1539;
 		rType = 0;
 		vrLen = 1425;
 		vrLoc = 792;
@@ -8251,7 +8251,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 85";
 		rLen = 0;
-		rLoc = 2083;
+		rLoc = 2090;
 		rType = 0;
 		vrLen = 1595;
 		vrLoc = 1383;
@@ -8261,7 +8261,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 105";
 		rLen = 0;
-		rLoc = 2474;
+		rLoc = 2481;
 		rType = 0;
 		vrLen = 1699;
 		vrLoc = 1912;
@@ -8271,7 +8271,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 112";
 		rLen = 0;
-		rLoc = 2582;
+		rLoc = 2589;
 		rType = 0;
 		vrLen = 1752;
 		vrLoc = 1912;
@@ -8281,7 +8281,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 109";
 		rLen = 0;
-		rLoc = 2532;
+		rLoc = 2539;
 		rType = 0;
 		vrLen = 1768;
 		vrLoc = 1769;
@@ -8291,7 +8291,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 83";
 		rLen = 0;
-		rLoc = 2083;
+		rLoc = 2090;
 		rType = 0;
 		vrLen = 1599;
 		vrLoc = 1413;
@@ -8301,7 +8301,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 83";
 		rLen = 0;
-		rLoc = 2083;
+		rLoc = 2090;
 		rType = 0;
 		vrLen = 1599;
 		vrLoc = 1413;
@@ -8351,7 +8351,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 34";
 		rLen = 0;
-		rLoc = 692;
+		rLoc = 699;
 		rType = 0;
 		vrLen = 1406;
 		vrLoc = 1395;
@@ -8361,7 +8361,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 124";
 		rLen = 0;
-		rLoc = 3408;
+		rLoc = 3523;
 		rType = 0;
 		vrLen = 1652;
 		vrLoc = 2504;
@@ -8371,7 +8371,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 119";
 		rLen = 0;
-		rLoc = 3094;
+		rLoc = 3101;
 		rType = 0;
 		vrLen = 1697;
 		vrLoc = 2504;
@@ -8381,7 +8381,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 119";
 		rLen = 0;
-		rLoc = 3019;
+		rLoc = 3026;
 		rType = 0;
 		vrLen = 1603;
 		vrLoc = 2504;
@@ -8391,7 +8391,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 119";
 		rLen = 0;
-		rLoc = 3019;
+		rLoc = 3026;
 		rType = 0;
 		vrLen = 1604;
 		vrLoc = 2504;
@@ -8401,7 +8401,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 120";
 		rLen = 0;
-		rLoc = 3094;
+		rLoc = 3101;
 		rType = 0;
 		vrLen = 1675;
 		vrLoc = 2504;
@@ -8411,7 +8411,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 119";
 		rLen = 0;
-		rLoc = 3056;
+		rLoc = 3063;
 		rType = 0;
 		vrLen = 1671;
 		vrLoc = 2504;
@@ -8421,7 +8421,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 119";
 		rLen = 0;
-		rLoc = 3048;
+		rLoc = 3055;
 		rType = 0;
 		vrLen = 1677;
 		vrLoc = 2504;
@@ -8431,7 +8431,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 125";
 		rLen = 0;
-		rLoc = 3241;
+		rLoc = 3248;
 		rType = 0;
 		vrLen = 1803;
 		vrLoc = 2504;
@@ -8441,7 +8441,7 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 128";
 		rLen = 0;
-		rLoc = 3407;
+		rLoc = 3522;
 		rType = 0;
 		vrLen = 1739;
 		vrLoc = 1888;
@@ -8451,10 +8451,496 @@
 		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
 		name = "FeedParser.m: 128";
 		rLen = 0;
-		rLoc = 3407;
+		rLoc = 3522;
 		rType = 0;
 		vrLen = 1531;
 		vrLoc = 1684;
+	};
+	1FBDDDF00E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADD0E2D832700364EA3 /* FeedParser.h */;
+		name = "FeedParser.h: 19";
+		rLen = 0;
+		rLoc = 408;
+		rType = 0;
+		vrLen = 653;
+		vrLoc = 0;
+	};
+	1FBDDDF10E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* NewsFeedTableViewController.h */;
+		name = "NewsFeedTableViewController.h: 9";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	1FBDDDF20E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
+		name = "NewsFeedTableViewController.m: 153";
+		rLen = 0;
+		rLoc = 4083;
+		rType = 0;
+		vrLen = 1304;
+		vrLoc = 211;
+	};
+	1FBDDDF30E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
+		name = "GitHubAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 203;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 0;
+	};
+	1FBDDDF40E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 170;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	1FBDDDF50E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 22";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+	1FBDDDF60E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
+		name = "NewsFeedItem.h: 19";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 0;
+	};
+	1FBDDDF70E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
+		name = "FeedParser.m: 120";
+		rLen = 0;
+		rLoc = 3500;
+		rType = 0;
+		vrLen = 1890;
+		vrLoc = 2198;
+	};
+	1FBDDDF80E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
+		name = "FeedParser.m: 14";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 1319;
+		vrLoc = 0;
+	};
+	1FBDDDF90E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADD0E2D832700364EA3 /* FeedParser.h */;
+		name = "FeedParser.h: 19";
+		rLen = 0;
+		rLoc = 408;
+		rType = 0;
+		vrLen = 653;
+		vrLoc = 0;
+	};
+	1FBDDDFA0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
+		name = "FeedParser.m: 14";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 1319;
+		vrLoc = 0;
+	};
+	1FBDDDFB0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADD0E2D832700364EA3 /* FeedParser.h */;
+		name = "FeedParser.h: 19";
+		rLen = 0;
+		rLoc = 408;
+		rType = 0;
+		vrLen = 653;
+		vrLoc = 0;
+	};
+	1FBDDDFC0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
+		name = "FeedParser.m: 14";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 1319;
+		vrLoc = 0;
+	};
+	1FBDDDFD0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADD0E2D832700364EA3 /* FeedParser.h */;
+		name = "FeedParser.h: 19";
+		rLen = 0;
+		rLoc = 408;
+		rType = 0;
+		vrLen = 653;
+		vrLoc = 0;
+	};
+	1FBDDDFE0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
+		name = "FeedParser.m: 123";
+		rLen = 0;
+		rLoc = 3753;
+		rType = 0;
+		vrLen = 1319;
+		vrLoc = 0;
+	};
+	1FBDDDFF0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADD0E2D832700364EA3 /* FeedParser.h */;
+		name = "FeedParser.h: 19";
+		rLen = 0;
+		rLoc = 408;
+		rType = 0;
+		vrLen = 653;
+		vrLoc = 0;
+	};
+	1FBDDE000E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* NewsFeedTableViewController.h */;
+		name = "NewsFeedTableViewController.h: 9";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	1FBDDE010E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
+		name = "NewsFeedTableViewController.m: 47";
+		rLen = 8;
+		rLoc = 1213;
+		rType = 0;
+		vrLen = 1358;
+		vrLoc = 28;
+	};
+	1FBDDE020E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* NewsFeedTableViewController.h */;
+		name = "NewsFeedTableViewController.h: 9";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	1FBDDE030E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
+		name = "NewsFeedTableViewController.m: 153";
+		rLen = 0;
+		rLoc = 4083;
+		rType = 0;
+		vrLen = 1304;
+		vrLoc = 211;
+	};
+	1FBDDE040E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
+		name = "NewsFeedItem.h: 23";
+		rLen = 0;
+		rLoc = 622;
+		rType = 0;
+		vrLen = 595;
+		vrLoc = 0;
+	};
+	1FBDDE050E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 17";
+		rLen = 0;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 0;
+	};
+	1FBDDE060E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 776;
+		vrLoc = 0;
+	};
+	1FBDDE070E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
+		name = "GitHubAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 509;
+		rType = 0;
+		vrLen = 318;
+		vrLoc = 0;
+	};
+	1FBDDE080E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 16";
+		rLen = 0;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 654;
+		vrLoc = 0;
+	};
+	1FBDDE090E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
+		name = "GitHubAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 509;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	1FBDDE0A0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 170;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	1FBDDE0B0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GitHubAppDelegate.h */;
+		name = "GitHubAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 203;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 0;
+	};
+	1FBDDE0C0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 170;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	1FBDDE0D0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
+		name = "FeedParser.m: 120";
+		rLen = 0;
+		rLoc = 3500;
+		rType = 0;
+		vrLen = 1836;
+		vrLoc = 2214;
+	};
+	1FBDDE0E0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 13";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 665;
+		vrLoc = 0;
+	};
+	1FBDDE0F0E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
+		name = "NewsFeedItem.h: 25";
+		rLen = 0;
+		rLoc = 623;
+		rType = 0;
+		vrLen = 606;
+		vrLoc = 0;
+	};
+	1FBDDE100E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 22";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+	1FBDDE110E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
+		name = "NewsFeedItem.h: 19";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 0;
+	};
+	1FBDDE120E2DDDCE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
+		name = "FeedParser.m: 120";
+		rLen = 0;
+		rLoc = 3500;
+		rType = 0;
+		vrLen = 1767;
+		vrLoc = 2512;
+	};
+	1FBDDE1F0E2DDEAE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
+		name = "FeedParser.m: 120";
+		rLen = 0;
+		rLoc = 3500;
+		rType = 0;
+		vrLen = 1767;
+		vrLoc = 2512;
+	};
+	1FBDDE200E2DDEAE00E62718 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1FBDDE170E2DDE8C00E62718 /* commit.png */;
+	};
+	1FBDDE210E2DDEAE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DDADE0E2D832700364EA3 /* FeedParser.m */;
+		name = "FeedParser.m: 120";
+		rLen = 0;
+		rLoc = 3500;
+		rType = 0;
+		vrLen = 1767;
+		vrLoc = 2512;
+	};
+	1FBDDE220E2DDEAE00E62718 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1FBDDE170E2DDE8C00E62718 /* commit.png */;
+	};
+	1FBDDE2B0E2DDF0D00E62718 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1FBDDE170E2DDE8C00E62718 /* commit.png */;
+	};
+	1FBDDE2C0E2DDF0D00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
+		name = "NewsFeedItem.h: 26";
+		rLen = 0;
+		rLoc = 622;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 0;
+	};
+	1FBDDE2D0E2DDF0D00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 22";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+	1FBDDE2E0E2DDF0D00E62718 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1FBDDE170E2DDE8C00E62718 /* commit.png */;
+	};
+	1FBDDE2F0E2DDF0D00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 22";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+	1FBDDE300E2DDF0D00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AE0E2D71EE00364EA3 /* NewsFeedItem.h */;
+		name = "NewsFeedItem.h: 26";
+		rLen = 0;
+		rLoc = 622;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 0;
+	};
+	1FBDDE310E2DDF0D00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 26";
+		rLen = 0;
+		rLoc = 532;
+		rType = 0;
+		vrLen = 696;
+		vrLoc = 0;
+	};
+	1FBDDE4E0E2DE00100E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 26";
+		rLen = 4;
+		rLoc = 596;
+		rType = 0;
+		vrLen = 1104;
+		vrLoc = 0;
+	};
+	1FBDDE500E2DE04400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 30";
+		rLen = 0;
+		rLoc = 720;
+		rType = 0;
+		vrLen = 878;
+		vrLoc = 0;
+	};
+	1FBDDE510E2DE04400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
+		name = "NewsFeedTableViewController.m: 153";
+		rLen = 0;
+		rLoc = 4083;
+		rType = 0;
+		vrLen = 1334;
+		vrLoc = 181;
+	};
+	1FBDDE520E2DE04400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 30";
+		rLen = 0;
+		rLoc = 720;
+		rType = 0;
+		vrLen = 878;
+		vrLoc = 0;
+	};
+	1FBDDE530E2DE04400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
+		name = "NewsFeedTableViewController.m: 75";
+		rLen = 0;
+		rLoc = 1998;
+		rType = 0;
+		vrLen = 1623;
+		vrLoc = 934;
 	};
 	28C286DF0D94DF7D0034E888 /* NewsFeedTableViewController.h */ = {
 		uiCtxt = {
@@ -8465,9 +8951,9 @@
 	};
 	28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {782, 2784}}";
-			sepNavSelRange = "{869, 0}";
-			sepNavVisRange = "{484, 718}";
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 2576}}";
+			sepNavSelRange = "{1998, 0}";
+			sepNavVisRange = "{934, 1623}";
 			sepNavWindowFrame = "{{296, 559}, {774, 719}}";
 		};
 	};
@@ -9361,6 +9847,57 @@
 			1FBCD0A70E2DD38700C81C1F = 1FBCD0A70E2DD38700C81C1F /* PBXTextBookmark */;
 			1FBCD0AA0E2DD3E000C81C1F = 1FBCD0AA0E2DD3E000C81C1F /* PBXTextBookmark */;
 			1FBDDDDE0E2DD69400E62718 /* PBXTextBookmark */ = 1FBDDDDE0E2DD69400E62718 /* PBXTextBookmark */;
+			1FBDDDF00E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDF00E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDF10E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDF10E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDF20E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDF20E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDF30E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDF30E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDF40E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDF40E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDF50E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDF50E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDF60E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDF60E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDF70E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDF70E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDF80E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDF80E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDF90E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDF90E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDFA0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDFA0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDFB0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDFB0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDFC0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDFC0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDFD0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDFD0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDFE0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDFE0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDDFF0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDDFF0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE000E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE000E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE010E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE010E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE020E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE020E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE030E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE030E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE040E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE040E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE050E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE050E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE060E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE060E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE070E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE070E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE080E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE080E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE090E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE090E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE0A0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE0A0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE0B0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE0B0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE0C0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE0C0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE0D0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE0D0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE0E0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE0E0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE0F0E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE0F0E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE100E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE100E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE110E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE110E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE120E2DDDCE00E62718 /* PBXTextBookmark */ = 1FBDDE120E2DDDCE00E62718 /* PBXTextBookmark */;
+			1FBDDE1F0E2DDEAE00E62718 /* PBXTextBookmark */ = 1FBDDE1F0E2DDEAE00E62718 /* PBXTextBookmark */;
+			1FBDDE200E2DDEAE00E62718 /* PBXBookmark */ = 1FBDDE200E2DDEAE00E62718 /* PBXBookmark */;
+			1FBDDE210E2DDEAE00E62718 /* PBXTextBookmark */ = 1FBDDE210E2DDEAE00E62718 /* PBXTextBookmark */;
+			1FBDDE220E2DDEAE00E62718 /* PBXBookmark */ = 1FBDDE220E2DDEAE00E62718 /* PBXBookmark */;
+			1FBDDE2B0E2DDF0D00E62718 /* PBXBookmark */ = 1FBDDE2B0E2DDF0D00E62718 /* PBXBookmark */;
+			1FBDDE2C0E2DDF0D00E62718 /* PBXTextBookmark */ = 1FBDDE2C0E2DDF0D00E62718 /* PBXTextBookmark */;
+			1FBDDE2D0E2DDF0D00E62718 /* PBXTextBookmark */ = 1FBDDE2D0E2DDF0D00E62718 /* PBXTextBookmark */;
+			1FBDDE2E0E2DDF0D00E62718 /* PBXBookmark */ = 1FBDDE2E0E2DDF0D00E62718 /* PBXBookmark */;
+			1FBDDE2F0E2DDF0D00E62718 /* PBXTextBookmark */ = 1FBDDE2F0E2DDF0D00E62718 /* PBXTextBookmark */;
+			1FBDDE300E2DDF0D00E62718 /* PBXTextBookmark */ = 1FBDDE300E2DDF0D00E62718 /* PBXTextBookmark */;
+			1FBDDE310E2DDF0D00E62718 /* PBXTextBookmark */ = 1FBDDE310E2DDF0D00E62718 /* PBXTextBookmark */;
+			1FBDDE4E0E2DE00100E62718 /* PBXTextBookmark */ = 1FBDDE4E0E2DE00100E62718 /* PBXTextBookmark */;
+			1FBDDE500E2DE04400E62718 /* PBXTextBookmark */ = 1FBDDE500E2DE04400E62718 /* PBXTextBookmark */;
+			1FBDDE510E2DE04400E62718 /* PBXTextBookmark */ = 1FBDDE510E2DE04400E62718 /* PBXTextBookmark */;
+			1FBDDE520E2DE04400E62718 /* PBXTextBookmark */ = 1FBDDE520E2DE04400E62718 /* PBXTextBookmark */;
+			1FBDDE530E2DE04400E62718 /* PBXTextBookmark */ = 1FBDDE530E2DE04400E62718 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 1F8DD7450E2D5B5100364EA3 /* Source Control */;
 		userBuildSettings = {

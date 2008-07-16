@@ -22,7 +22,7 @@
     if (self = [super init]) {
         self.url = feedURL;
         self.newsFeedItems = [[NSMutableArray alloc] init];
-        elementsWithContent = [[NSArray alloc] initWithObjects:@"published", @"title", @"content", @"name", nil];
+        elementsWithContent = [[NSArray alloc] initWithObjects:@"id", @"published", @"title", @"content", @"name", nil];
         [self initializeParser];
         withinEntryElement = NO;
     }
@@ -116,6 +116,8 @@ foundCharacters:(NSString *)string {
         currentNewsFeedItem.published = published;
         [published release];
         [dateFormatter release];
+    } else if ([elementName isEqualToString:@"id"]) {
+        currentNewsFeedItem.tag = currentStringValue;
     } else if ([elementName isEqualToString:@"title"]) {
         currentNewsFeedItem.title = currentStringValue;
     } else if ([elementName isEqualToString:@"content"]) {

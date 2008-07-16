@@ -10,6 +10,7 @@
 
 
 @implementation NewsFeedItem
+@synthesize tag;
 @synthesize published;
 @synthesize author;
 @synthesize url;
@@ -17,8 +18,15 @@
 @synthesize content;
 
 - (NSString *)description {
-    return [NSString stringWithFormat:@"<NewsFeedItem title: '%@' published: '%@', author: '%@', content: '%@'>",
-            title, published, author,  content];
+    return [NSString stringWithFormat:@"<NewsFeedItem tag:'@' title:'%@' published:'%@', author:'%@', content:'%@'>",
+            tag, title, published, author,  content];
+}
+
+- (UIImage *)icon {
+	NSString *imagePath = [[NSBundle mainBundle] pathForResource:@"fork"
+														  ofType:@"png"];
+	UIImage *image = [[UIImage alloc] initWithContentsOfFile:imagePath];
+	return image;
 }
 
 - (void)dealloc {
