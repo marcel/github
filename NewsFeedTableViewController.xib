@@ -35,7 +35,7 @@
 				<int key="IBUISeparatorStyle">1</int>
 				<int key="IBUISectionIndexMinimumDisplayRowCount">0</int>
 				<bool key="IBUIShowsSelectionImmediatelyOnTouchBegin">YES</bool>
-				<float key="IBUIRowHeight">1.000000e+02</float>
+				<float key="IBUIRowHeight">7.500000e+01</float>
 				<float key="IBUISectionHeaderHeight">2.700000e+01</float>
 				<float key="IBUISectionFooterHeight">2.700000e+01</float>
 			</object>

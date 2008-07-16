@@ -19,20 +19,25 @@
 @synthesize newsFeedItems;
 
 - (id)initWithFeedURL:(NSURL *)feedURL {
-    if (self = [super init]) {
-        self.url = feedURL;
-        self.newsFeedItems = [[NSMutableArray alloc] init];
-        elementsWithContent = [[NSArray alloc] initWithObjects:@"id", @"published", @"title", @"content", @"name", nil];
-        [self initializeParser];
-        withinEntryElement = NO;
-    }
-    return self;
+  if (self = [super init]) {
+    self.url            = feedURL;
+    self.newsFeedItems  = [[NSMutableArray alloc] init];
+    elementsWithContent = [[NSArray alloc] initWithObjects:@"id", 
+                                                           @"published", 
+                                                           @"title", 
+                                                           @"content", 
+                                                           @"name", 
+                                                           nil];
+    [self initializeParser];
+    withinEntryElement  = NO;
+  }
+  return self;
 }
 
 - (void)initializeParser {
-    self.parser = [[NSXMLParser alloc] initWithContentsOfURL:url];
-    parser.delegate = self;
-    parser.shouldResolveExternalEntities = YES;
+  self.parser                          = [[NSXMLParser alloc] initWithContentsOfURL:url];
+  parser.delegate                      = self;
+  parser.shouldResolveExternalEntities = YES;
 }
 
 - (BOOL)parse {

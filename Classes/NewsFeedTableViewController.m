@@ -68,7 +68,8 @@
 	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];
 	if (cell == nil) {
 		cell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:cellIdentifier] autorelease];
-	}
+    cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
+}
 	
 	NewsFeedItem *item;
     item = [newsFeedItems objectAtIndex:indexPath.row];

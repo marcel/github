@@ -3701,9 +3701,9 @@
 	};
 	1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {955, 839}}";
-			sepNavSelRange = "{720, 0}";
-			sepNavVisRange = "{0, 878}";
+			sepNavIntBoundsRect = "{{0, 0}, {831, 608}}";
+			sepNavSelRange = "{206, 0}";
+			sepNavVisRange = "{0, 602}";
 			sepNavWindowFrame = "{{429, 476}, {774, 719}}";
 		};
 	};
@@ -8942,6 +8942,128 @@
 		vrLen = 1623;
 		vrLoc = 934;
 	};
+	1FBDDE570E2DE13200E62718 /* NewsFeedItemDetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {955, 862}}";
+			sepNavSelRange = "{115, 0}";
+			sepNavVisRange = "{0, 372}";
+		};
+	};
+	1FBDDE580E2DE13200E62718 /* NewsFeedItemDetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {642, 1728}}";
+			sepNavSelRange = "{572, 0}";
+			sepNavVisRange = "{0, 467}";
+		};
+	};
+	1FBDDE5E0E2E625100E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "error: syntax error before 'id'";
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		rLen = 1;
+		rLoc = 12;
+		rType = 1;
+	};
+	1FBDDE5F0E2E625100E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 13";
+		rLen = 0;
+		rLoc = 206;
+		rType = 0;
+		vrLen = 634;
+		vrLoc = 0;
+	};
+	1FBDDE600E2E625600E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
+		name = "NewsFeedTableViewController.m: 75";
+		rLen = 0;
+		rLoc = 1998;
+		rType = 0;
+		vrLen = 1658;
+		vrLoc = 961;
+	};
+	1FBDDE610E2E625600E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDE570E2DE13200E62718 /* NewsFeedItemDetailViewController.h */;
+		name = "NewsFeedItemDetailViewController.h: 6";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	1FBDDE620E2E625600E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDE580E2DE13200E62718 /* NewsFeedItemDetailViewController.m */;
+		name = "NewsFeedItemDetailViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1341;
+		vrLoc = 0;
+	};
+	1FBDDE630E2E625600E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */;
+		name = "NewsFeedTableViewController.m: 75";
+		rLen = 0;
+		rLoc = 1998;
+		rType = 0;
+		vrLen = 1658;
+		vrLoc = 961;
+	};
+	1FBDDE640E2E625600E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDE570E2DE13200E62718 /* NewsFeedItemDetailViewController.h */;
+		name = "NewsFeedItemDetailViewController.h: 15";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	1FBDDE650E2E625600E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDE580E2DE13200E62718 /* NewsFeedItemDetailViewController.m */;
+		name = "NewsFeedItemDetailViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1341;
+		vrLoc = 0;
+	};
+	1FBDDE660E2E625600E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDE570E2DE13200E62718 /* NewsFeedItemDetailViewController.h */;
+		name = "NewsFeedItemDetailViewController.h: 6";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	1FBDDE670E2E625600E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDE580E2DE13200E62718 /* NewsFeedItemDetailViewController.m */;
+		name = "NewsFeedItemDetailViewController.m: 28";
+		rLen = 0;
+		rLoc = 572;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	1FBDDE690E2E628A00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDE580E2DE13200E62718 /* NewsFeedItemDetailViewController.m */;
+		name = "NewsFeedItemDetailViewController.m: 28";
+		rLen = 0;
+		rLoc = 572;
+		rType = 0;
+		vrLen = 467;
+		vrLoc = 0;
+	};
 	28C286DF0D94DF7D0034E888 /* NewsFeedTableViewController.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {955, 839}}";
@@ -8951,9 +9073,9 @@
 	};
 	28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1048, 2576}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 2416}}";
 			sepNavSelRange = "{1998, 0}";
-			sepNavVisRange = "{934, 1623}";
+			sepNavVisRange = "{961, 1658}";
 			sepNavWindowFrame = "{{296, 559}, {774, 719}}";
 		};
 	};
@@ -8974,7 +9096,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					777,
+					10,
 					20,
 					48,
 					43,
@@ -9898,6 +10020,17 @@
 			1FBDDE510E2DE04400E62718 /* PBXTextBookmark */ = 1FBDDE510E2DE04400E62718 /* PBXTextBookmark */;
 			1FBDDE520E2DE04400E62718 /* PBXTextBookmark */ = 1FBDDE520E2DE04400E62718 /* PBXTextBookmark */;
 			1FBDDE530E2DE04400E62718 /* PBXTextBookmark */ = 1FBDDE530E2DE04400E62718 /* PBXTextBookmark */;
+			1FBDDE5E0E2E625100E62718 /* PBXTextBookmark */ = 1FBDDE5E0E2E625100E62718 /* PBXTextBookmark */;
+			1FBDDE5F0E2E625100E62718 /* PBXTextBookmark */ = 1FBDDE5F0E2E625100E62718 /* PBXTextBookmark */;
+			1FBDDE600E2E625600E62718 /* PBXTextBookmark */ = 1FBDDE600E2E625600E62718 /* PBXTextBookmark */;
+			1FBDDE610E2E625600E62718 /* PBXTextBookmark */ = 1FBDDE610E2E625600E62718 /* PBXTextBookmark */;
+			1FBDDE620E2E625600E62718 /* PBXTextBookmark */ = 1FBDDE620E2E625600E62718 /* PBXTextBookmark */;
+			1FBDDE630E2E625600E62718 /* PBXTextBookmark */ = 1FBDDE630E2E625600E62718 /* PBXTextBookmark */;
+			1FBDDE640E2E625600E62718 /* PBXTextBookmark */ = 1FBDDE640E2E625600E62718 /* PBXTextBookmark */;
+			1FBDDE650E2E625600E62718 /* PBXTextBookmark */ = 1FBDDE650E2E625600E62718 /* PBXTextBookmark */;
+			1FBDDE660E2E625600E62718 /* PBXTextBookmark */ = 1FBDDE660E2E625600E62718 /* PBXTextBookmark */;
+			1FBDDE670E2E625600E62718 /* PBXTextBookmark */ = 1FBDDE670E2E625600E62718 /* PBXTextBookmark */;
+			1FBDDE690E2E628A00E62718 /* PBXTextBookmark */ = 1FBDDE690E2E628A00E62718 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 1F8DD7450E2D5B5100364EA3 /* Source Control */;
 		userBuildSettings = {

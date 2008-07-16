@@ -12,9 +12,9 @@
 @implementation GitHubAppDelegate
 
 @synthesize window;
-@synthesize newsFeedTableViewController;
+@synthesize navigationController;
 - (void)applicationDidFinishLaunching:(UIApplication *)application {
-    [window addSubview:[newsFeedTableViewController view]];
+  [window addSubview:[navigationController view]];
 	[window makeKeyAndVisible];
 }
 
