@@ -8,14 +8,19 @@
 
 #import "GitHubAppDelegate.h"
 #import "NewsFeedItem.h"
+#import "SplashScreenViewController.h"
 
 @implementation GitHubAppDelegate
 
 @synthesize window;
 @synthesize navigationController;
 - (void)applicationDidFinishLaunching:(UIApplication *)application {
-  [window addSubview:[navigationController view]];  
-  [window makeKeyAndVisible];
+    SplashScreenViewController *splashScreenViewController;
+    splashScreenViewController = [[SplashScreenViewController alloc] initWithNibName:@"SplashScreenView" 
+                                                                              bundle:nil];
+    [window addSubview:[navigationController view]];
+    [window addSubview:[splashScreenViewController view]];
+    [window makeKeyAndVisible];
 }
 
 

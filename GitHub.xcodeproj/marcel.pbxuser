@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* GitHubAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {857, 528}}";
-			sepNavSelRange = "{354, 0}";
-			sepNavVisRange = "{0, 575}";
+			sepNavIntBoundsRect = "{{0, 0}, {857, 592}}";
+			sepNavSelRange = "{703, 0}";
+			sepNavVisRange = "{85, 847}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* GitHub */ = {
@@ -767,7 +767,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 706;
 		vrLoc = 0;
@@ -887,7 +887,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 680;
 		vrLoc = 0;
@@ -937,7 +937,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 706;
 		vrLoc = 0;
@@ -3703,7 +3703,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {857, 656}}";
 			sepNavSelRange = "{308, 0}";
-			sepNavVisRange = "{3, 719}";
+			sepNavVisRange = "{135, 737}";
 			sepNavWindowFrame = "{{429, 476}, {774, 719}}";
 		};
 	};
@@ -3932,7 +3932,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -4082,7 +4082,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -4102,7 +4102,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -6098,7 +6098,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -6188,7 +6188,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -6311,7 +6311,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 85;
@@ -6441,7 +6441,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 10";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 615;
 		vrLoc = 136;
@@ -6601,7 +6601,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 691;
 		vrLoc = 85;
@@ -8681,7 +8681,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 194;
+		rLoc = 233;
 		rType = 0;
 		vrLen = 776;
 		vrLoc = 0;
@@ -8701,7 +8701,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 16";
 		rLen = 0;
-		rLoc = 261;
+		rLoc = 300;
 		rType = 0;
 		vrLen = 654;
 		vrLoc = 0;
@@ -8951,9 +8951,9 @@
 	};
 	1FBDDE580E2DE13200E62718 /* NewsFeedItemDetailViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {857, 784}}";
+			sepNavIntBoundsRect = "{{0, 0}, {857, 832}}";
 			sepNavSelRange = "{443, 0}";
-			sepNavVisRange = "{155, 574}";
+			sepNavVisRange = "{480, 421}";
 		};
 	};
 	1FBDDE5E0E2E625100E62718 /* PBXTextBookmark */ = {
@@ -9361,7 +9361,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 20";
 		rLen = 0;
-		rLoc = 409;
+		rLoc = 766;
 		rType = 0;
 		vrLen = 635;
 		vrLoc = 27;
@@ -9389,7 +9389,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 20";
 		rLen = 0;
-		rLoc = 409;
+		rLoc = 766;
 		rType = 0;
 		vrLen = 635;
 		vrLoc = 27;
@@ -9847,7 +9847,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 17";
 		rLen = 0;
-		rLoc = 354;
+		rLoc = 650;
 		rType = 0;
 		vrLen = 593;
 		vrLoc = 0;
@@ -9867,7 +9867,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 17";
 		rLen = 0;
-		rLoc = 354;
+		rLoc = 650;
 		rType = 0;
 		vrLen = 593;
 		vrLoc = 0;
@@ -9887,7 +9887,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 17";
 		rLen = 0;
-		rLoc = 354;
+		rLoc = 650;
 		rType = 0;
 		vrLen = 593;
 		vrLoc = 0;
@@ -9897,7 +9897,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 17";
 		rLen = 0;
-		rLoc = 354;
+		rLoc = 650;
 		rType = 0;
 		vrLen = 575;
 		vrLoc = 0;
@@ -9943,7 +9943,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 17";
 		rLen = 0;
-		rLoc = 354;
+		rLoc = 650;
 		rType = 0;
 		vrLen = 575;
 		vrLoc = 0;
@@ -10476,6 +10476,289 @@
 		vrLen = 574;
 		vrLoc = 155;
 	};
+	1FBDDFA20E2EA78600E62718 /* octocat.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 154}, {774, 719}}";
+		};
+	};
+	1FBDDFA80E2EA7F300E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDE580E2DE13200E62718 /* NewsFeedItemDetailViewController.m */;
+		name = "NewsFeedItemDetailViewController.m: 19";
+		rLen = 0;
+		rLoc = 443;
+		rType = 0;
+		vrLen = 421;
+		vrLoc = 480;
+	};
+	1FBDDFA90E2EA7F300E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 19";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 135;
+	};
+	1FBDDFAA0E2EA7F300E62718 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1FBDDFA20E2EA78600E62718 /* octocat.png */;
+	};
+	1FBDDFAB0E2EA7F300E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDE580E2DE13200E62718 /* NewsFeedItemDetailViewController.m */;
+		name = "NewsFeedItemDetailViewController.m: 19";
+		rLen = 0;
+		rLoc = 443;
+		rType = 0;
+		vrLen = 421;
+		vrLoc = 480;
+	};
+	1FBDDFAC0E2EA7F300E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F8DD9AF0E2D71EE00364EA3 /* NewsFeedItem.m */;
+		name = "NewsFeedItem.m: 19";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 135;
+	};
+	1FBDDFAD0E2EA7F300E62718 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1FBDDFA20E2EA78600E62718 /* octocat.png */;
+	};
+	1FBDDFB00E2EAB9500E62718 /* SplashScreenViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {857, 435}}";
+			sepNavSelRange = "{366, 0}";
+			sepNavVisRange = "{0, 372}";
+		};
+	};
+	1FBDDFB10E2EAB9500E62718 /* SplashScreenViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {857, 800}}";
+			sepNavSelRange = "{1013, 0}";
+			sepNavVisRange = "{373, 647}";
+		};
+	};
+	1FBDDFB30E2EABDE00E62718 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1FBDDFA20E2EA78600E62718 /* octocat.png */;
+	};
+	1FBDDFB40E2EABDE00E62718 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1FBDDFAE0E2EA94400E62718 /* text-logo.png */;
+	};
+	1FBDDFB50E2EABDE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDFB00E2EAB9500E62718 /* SplashScreenViewController.h */;
+		name = "SplashScreenViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	1FBDDFB60E2EABDE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 16";
+		rLen = 0;
+		rLoc = 649;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 0;
+	};
+	1FBDDFB70E2EABDE00E62718 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1FBDDFA20E2EA78600E62718 /* octocat.png */;
+	};
+	1FBDDFB80E2EABDE00E62718 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1FBDDFAE0E2EA94400E62718 /* text-logo.png */;
+	};
+	1FBDDFB90E2EABDE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 16";
+		rLen = 0;
+		rLoc = 649;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 0;
+	};
+	1FBDDFBA0E2EABDE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDFB00E2EAB9500E62718 /* SplashScreenViewController.h */;
+		name = "SplashScreenViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	1FBDDFBB0E2EABDE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 703;
+		rType = 0;
+		vrLen = 906;
+		vrLoc = 0;
+	};
+	1FBDDFBC0E2EAC2400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 761;
+		rType = 0;
+		vrLen = 958;
+		vrLoc = 0;
+	};
+	1FBDDFBD0E2EAC2400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDFB10E2EAB9500E62718 /* SplashScreenViewController.m */;
+		name = "SplashScreenViewController.m: 13";
+		rLen = 0;
+		rLoc = 263;
+		rType = 0;
+		vrLen = 678;
+		vrLoc = 0;
+	};
+	1FBDDFBE0E2EAC2400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDFB00E2EAB9500E62718 /* SplashScreenViewController.h */;
+		name = "SplashScreenViewController.h: 15";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	1FBDDFBF0E2EAC2400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 761;
+		rType = 0;
+		vrLen = 958;
+		vrLoc = 0;
+	};
+	1FBDDFC00E2EAC2400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDFB00E2EAB9500E62718 /* SplashScreenViewController.h */;
+		name = "SplashScreenViewController.h: 15";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	1FBDDFC10E2EAC2400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDFB10E2EAB9500E62718 /* SplashScreenViewController.m */;
+		name = "SplashScreenViewController.m: 13";
+		rLen = 0;
+		rLoc = 263;
+		rType = 0;
+		vrLen = 678;
+		vrLoc = 0;
+	};
+	1FBDDFC20E2EAC2400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDFB00E2EAB9500E62718 /* SplashScreenViewController.h */;
+		name = "SplashScreenViewController.h: 15";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	1FBDDFC40E2EACBE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDFB00E2EAB9500E62718 /* SplashScreenViewController.h */;
+		name = "SplashScreenViewController.h: 15";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	1FBDDFC50E2EACBE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 761;
+		rType = 0;
+		vrLen = 929;
+		vrLoc = 0;
+	};
+	1FBDDFC60E2EACBE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDFB00E2EAB9500E62718 /* SplashScreenViewController.h */;
+		name = "SplashScreenViewController.h: 15";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	1FBDDFC70E2EACBE00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 703;
+		rType = 0;
+		vrLen = 895;
+		vrLoc = 85;
+	};
+	1FBDDFC90E2EACFB00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 703;
+		rType = 0;
+		vrLen = 847;
+		vrLoc = 85;
+	};
+	1FBDDFCA0E2EACFB00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDFB10E2EAB9500E62718 /* SplashScreenViewController.m */;
+		name = "SplashScreenViewController.m: 13";
+		rLen = 0;
+		rLoc = 263;
+		rType = 0;
+		vrLen = 656;
+		vrLoc = 0;
+	};
+	1FBDDFCB0E2EACFB00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 703;
+		rType = 0;
+		vrLen = 847;
+		vrLoc = 85;
+	};
+	1FBDDFCC0E2EACFB00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDDFB10E2EAB9500E62718 /* SplashScreenViewController.m */;
+		name = "SplashScreenViewController.m: 47";
+		rLen = 0;
+		rLoc = 1013;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 373;
+	};
 	28C286DF0D94DF7D0034E888 /* NewsFeedTableViewController.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {857, 435}}";
@@ -10485,9 +10768,9 @@
 	};
 	28C286E00D94DF7D0034E888 /* NewsFeedTableViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1048, 2768}}";
-			sepNavSelRange = "{2532, 0}";
-			sepNavVisRange = "{2042, 1243}";
+			sepNavIntBoundsRect = "{{0, 0}, {803, 2992}}";
+			sepNavSelRange = "{2247, 0}";
+			sepNavVisRange = "{1554, 998}";
 			sepNavWindowFrame = "{{296, 559}, {774, 719}}";
 		};
 	};
@@ -11585,6 +11868,36 @@
 			1FBDDF980E2E93D400E62718 /* PBXTextBookmark */ = 1FBDDF980E2E93D400E62718 /* PBXTextBookmark */;
 			1FBDDF990E2E93D400E62718 /* PBXTextBookmark */ = 1FBDDF990E2E93D400E62718 /* PBXTextBookmark */;
 			1FBDDF9A0E2E93D400E62718 /* PBXTextBookmark */ = 1FBDDF9A0E2E93D400E62718 /* PBXTextBookmark */;
+			1FBDDFA80E2EA7F300E62718 /* PBXTextBookmark */ = 1FBDDFA80E2EA7F300E62718 /* PBXTextBookmark */;
+			1FBDDFA90E2EA7F300E62718 /* PBXTextBookmark */ = 1FBDDFA90E2EA7F300E62718 /* PBXTextBookmark */;
+			1FBDDFAA0E2EA7F300E62718 /* PBXBookmark */ = 1FBDDFAA0E2EA7F300E62718 /* PBXBookmark */;
+			1FBDDFAB0E2EA7F300E62718 /* PBXTextBookmark */ = 1FBDDFAB0E2EA7F300E62718 /* PBXTextBookmark */;
+			1FBDDFAC0E2EA7F300E62718 /* PBXTextBookmark */ = 1FBDDFAC0E2EA7F300E62718 /* PBXTextBookmark */;
+			1FBDDFAD0E2EA7F300E62718 /* PBXBookmark */ = 1FBDDFAD0E2EA7F300E62718 /* PBXBookmark */;
+			1FBDDFB30E2EABDE00E62718 /* PBXBookmark */ = 1FBDDFB30E2EABDE00E62718 /* PBXBookmark */;
+			1FBDDFB40E2EABDE00E62718 /* PBXBookmark */ = 1FBDDFB40E2EABDE00E62718 /* PBXBookmark */;
+			1FBDDFB50E2EABDE00E62718 /* PBXTextBookmark */ = 1FBDDFB50E2EABDE00E62718 /* PBXTextBookmark */;
+			1FBDDFB60E2EABDE00E62718 /* PBXTextBookmark */ = 1FBDDFB60E2EABDE00E62718 /* PBXTextBookmark */;
+			1FBDDFB70E2EABDE00E62718 /* PBXBookmark */ = 1FBDDFB70E2EABDE00E62718 /* PBXBookmark */;
+			1FBDDFB80E2EABDE00E62718 /* PBXBookmark */ = 1FBDDFB80E2EABDE00E62718 /* PBXBookmark */;
+			1FBDDFB90E2EABDE00E62718 /* PBXTextBookmark */ = 1FBDDFB90E2EABDE00E62718 /* PBXTextBookmark */;
+			1FBDDFBA0E2EABDE00E62718 /* PBXTextBookmark */ = 1FBDDFBA0E2EABDE00E62718 /* PBXTextBookmark */;
+			1FBDDFBB0E2EABDE00E62718 /* PBXTextBookmark */ = 1FBDDFBB0E2EABDE00E62718 /* PBXTextBookmark */;
+			1FBDDFBC0E2EAC2400E62718 /* PBXTextBookmark */ = 1FBDDFBC0E2EAC2400E62718 /* PBXTextBookmark */;
+			1FBDDFBD0E2EAC2400E62718 /* PBXTextBookmark */ = 1FBDDFBD0E2EAC2400E62718 /* PBXTextBookmark */;
+			1FBDDFBE0E2EAC2400E62718 /* PBXTextBookmark */ = 1FBDDFBE0E2EAC2400E62718 /* PBXTextBookmark */;
+			1FBDDFBF0E2EAC2400E62718 /* PBXTextBookmark */ = 1FBDDFBF0E2EAC2400E62718 /* PBXTextBookmark */;
+			1FBDDFC00E2EAC2400E62718 /* PBXTextBookmark */ = 1FBDDFC00E2EAC2400E62718 /* PBXTextBookmark */;
+			1FBDDFC10E2EAC2400E62718 /* PBXTextBookmark */ = 1FBDDFC10E2EAC2400E62718 /* PBXTextBookmark */;
+			1FBDDFC20E2EAC2400E62718 /* PBXTextBookmark */ = 1FBDDFC20E2EAC2400E62718 /* PBXTextBookmark */;
+			1FBDDFC40E2EACBE00E62718 /* PBXTextBookmark */ = 1FBDDFC40E2EACBE00E62718 /* PBXTextBookmark */;
+			1FBDDFC50E2EACBE00E62718 /* PBXTextBookmark */ = 1FBDDFC50E2EACBE00E62718 /* PBXTextBookmark */;
+			1FBDDFC60E2EACBE00E62718 /* PBXTextBookmark */ = 1FBDDFC60E2EACBE00E62718 /* PBXTextBookmark */;
+			1FBDDFC70E2EACBE00E62718 /* PBXTextBookmark */ = 1FBDDFC70E2EACBE00E62718 /* PBXTextBookmark */;
+			1FBDDFC90E2EACFB00E62718 /* PBXTextBookmark */ = 1FBDDFC90E2EACFB00E62718 /* PBXTextBookmark */;
+			1FBDDFCA0E2EACFB00E62718 /* PBXTextBookmark */ = 1FBDDFCA0E2EACFB00E62718 /* PBXTextBookmark */;
+			1FBDDFCB0E2EACFB00E62718 /* PBXTextBookmark */ = 1FBDDFCB0E2EACFB00E62718 /* PBXTextBookmark */;
+			1FBDDFCC0E2EACFB00E62718 /* PBXTextBookmark */ = 1FBDDFCC0E2EACFB00E62718 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 1F8DD7450E2D5B5100364EA3 /* Source Control */;
 		userBuildSettings = {

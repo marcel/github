@@ -230,8 +230,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -273,9 +271,9 @@
 								<string>1F8DD9B10E2D71F700364EA3</string>
 								<string>29B97315FDCFA39411CA2CEA</string>
 								<string>29B97317FDCFA39411CA2CEA</string>
+								<string>1FBDDFA70E2EA7DD00E62718</string>
+								<string>1FBDDE1E0E2DDE9700E62718</string>
 								<string>29B97323FDCFA39411CA2CEA</string>
-								<string>1DF5F4DF0D08C38300B7A737</string>
-								<string>1FBDDE260E2DDEAE00E62718</string>
 								<string>19C28FACFE9D520D11CA2CBB</string>
 								<string>1C37FBAC04509CD000000102</string>
 								<string>1C37FABC05509CD000000102</string>
@@ -283,8 +281,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>23</integer>
-									<integer>19</integer>
+									<integer>3</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -319,12 +317,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>NewsFeedItemDetailViewController.m</string>
+								<string>SplashScreenViewController.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -332,11 +332,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>NewsFeedItemDetailViewController.m</string>
+										<string>SplashScreenViewController.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>1FBDDF9A0E2E93D400E62718</string>
+										<string>1FBDDFCC0E2EACFB00E62718</string>
 										<key>history</key>
 										<array>
 											<string>1FBCD03D0E2DB20A00C81C1F</string>
@@ -344,9 +344,7 @@
 											<string>1FBDDE9F0E2E6E1E00E62718</string>
 											<string>1FBDDEE90E2E83A400E62718</string>
 											<string>1FBDDEF80E2E84C000E62718</string>
-											<string>1FBDDF010E2E86F100E62718</string>
 											<string>1FBDDF020E2E86F100E62718</string>
-											<string>1FBDDF3E0E2E88D700E62718</string>
 											<string>1FBDDF3F0E2E88D700E62718</string>
 											<string>1FBDDF410E2E88D700E62718</string>
 											<string>1FBDDF420E2E88D700E62718</string>
@@ -354,7 +352,13 @@
 											<string>1FBDDF600E2E8DE100E62718</string>
 											<string>1FBDDF850E2E90CF00E62718</string>
 											<string>1FBDDF970E2E93D400E62718</string>
-											<string>1FBDDF980E2E93D400E62718</string>
+											<string>1FBDDFA80E2EA7F300E62718</string>
+											<string>1FBDDFA90E2EA7F300E62718</string>
+											<string>1FBDDFB30E2EABDE00E62718</string>
+											<string>1FBDDFB40E2EABDE00E62718</string>
+											<string>1FBDDFC40E2EACBE00E62718</string>
+											<string>1FBDDFC90E2EACFB00E62718</string>
+											<string>1FBDDFCA0E2EACFB00E62718</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -438,6 +442,17 @@
 											<string>1FBDDF860E2E90CF00E62718</string>
 											<string>1FBDDF940E2E937900E62718</string>
 											<string>1FBDDF990E2E93D400E62718</string>
+											<string>1FBDDFAB0E2EA7F300E62718</string>
+											<string>1FBDDFAC0E2EA7F300E62718</string>
+											<string>1FBDDFB70E2EABDE00E62718</string>
+											<string>1FBDDFB80E2EABDE00E62718</string>
+											<string>1FBDDFB90E2EABDE00E62718</string>
+											<string>1FBDDFBA0E2EABDE00E62718</string>
+											<string>1FBDDFBF0E2EAC2400E62718</string>
+											<string>1FBDDFC00E2EAC2400E62718</string>
+											<string>1FBDDFC10E2EAC2400E62718</string>
+											<string>1FBDDFC60E2EACBE00E62718</string>
+											<string>1FBDDFCB0E2EACFB00E62718</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
