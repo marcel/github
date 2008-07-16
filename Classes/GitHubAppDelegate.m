@@ -7,27 +7,14 @@
 //
 
 #import "GitHubAppDelegate.h"
-#import "NewsFeedTableViewController.h"
 #import "NewsFeedItem.h"
 
 @implementation GitHubAppDelegate
 
 @synthesize window;
-@synthesize navigationController;
-
-
-- (id)init {
-	if (self = [super init]) {
-		// 
-	}
-	return self;
-}
-
-
+@synthesize newsFeedTableViewController;
 - (void)applicationDidFinishLaunching:(UIApplication *)application {
-	
-	// Configure and show the window
-	[window addSubview:[navigationController view]];
+    [window addSubview:[newsFeedTableViewController view]];
 	[window makeKeyAndVisible];
 }
 
@@ -38,7 +25,6 @@
 
 
 - (void)dealloc {
-	[navigationController release];
 	[window release];
 	[super dealloc];
 }
