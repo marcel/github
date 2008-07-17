@@ -10,10 +10,7 @@
 
 @interface NewsFeedTableViewController : UITableViewController {
     NSMutableArray *newsFeedItems;
-    NSURL *_feedURL;
 }
 @property (nonatomic, retain) NSMutableArray *newsFeedItems;
-- (BOOL)isLoggedIn;
-- (NSURL *)feedURL;
-- (NSString *)loggedInUser;
+
 @end

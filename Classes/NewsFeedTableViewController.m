@@ -13,9 +13,6 @@
 #import "NewsFeedItemCell.h"
 #import "NewsFeedItemDetailViewController.h"
 
-#define PublicNewsFeedURL @"http://github.com/news.atom"
-#define UserNewsFeedURL   @"http://github.com/%@.atom"
-
 @implementation NewsFeedTableViewController
 @synthesize newsFeedItems;
 
@@ -27,32 +24,15 @@
 }
 
 - (void)viewDidLoad {
+    /*
     FeedParser *parser;
-    parser = [[FeedParser alloc] initWithFeedURL:[self feedURL]];
+    parser = [[FeedParser parserForFeedURL:[self feedURL] delegate:nil];
     [parser parse];
     NSLog(@"News feed items: %@", [parser newsFeedItems]);
     [newsFeedItems addObjectsFromArray:[parser newsFeedItems]];
+     */
 }
 
-- (BOOL)isLoggedIn {
-    return NO;
-}
-
-- (NSURL *)feedURL {
-    if (_feedURL == nil) {
-        if ([self isLoggedIn]) {
-            _feedURL = [NSURL URLWithString:[NSString stringWithFormat:UserNewsFeedURL, [self loggedInUser]]];
-        } else {
-            _feedURL = [NSURL URLWithString:PublicNewsFeedURL];
-        }
-    }
-    return _feedURL;
-}
-
-- (NSString *)loggedInUser {
-    // XXX stubbed for now
-    return @"marcel";
-}
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
 	return 1;
@@ -169,9 +149,6 @@ didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
 
 
 - (void)dealloc {
-    if (_feedURL) {
-        [_feedURL release];
-    }
     [newsFeedItems release];
 	[super dealloc];
 }

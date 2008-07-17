@@ -18,12 +18,6 @@
 }
  */
 
-/*
- If you need to do additional setup after loading the view, override viewDidLoad.
-- (void)viewDidLoad {
-}
- */
-
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
 	// Return YES for supported orientations
@@ -37,12 +31,14 @@
 }
 
 
-- (void)dealloc {
+- (void)dealloc 
+{
     [activityIndicator release];
 	[super dealloc];
 }
 
-- (void)viewDidLoad {
+- (void)viewDidLoad 
+{
     [activityIndicator startAnimating];
 }
 

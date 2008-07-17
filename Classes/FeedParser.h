@@ -21,6 +21,8 @@
 @property (nonatomic, retain) NSXMLParser *parser;
 @property (nonatomic, retain) NSURL *url;
 @property (nonatomic, retain) NSMutableArray *newsFeedItems;
++ (FeedParser *)feedParserForFeed:(NSURL *)feedURL;
 - (id)initWithFeedURL:(NSURL *)feedURL;
 - (BOOL)parse;
 @end
+

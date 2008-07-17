@@ -9,35 +9,43 @@
 #import "FeedParser.h"
 
 @interface FeedParser (PrivateMethods)
-- (void)initializeParser;
-- (void)resetCurrentStringValue;
+- (void)_initializeParser;
+- (void)_resetCurrentStringValue;
 @end
 
 @implementation FeedParser
 @synthesize parser;
 @synthesize url;
 @synthesize newsFeedItems;
-
-- (id)initWithFeedURL:(NSURL *)feedURL {
-  if (self = [super init]) {
-    self.url            = feedURL;
-    self.newsFeedItems  = [[NSMutableArray alloc] init];
-    elementsWithContent = [[NSArray alloc] initWithObjects:@"id", 
-                                                           @"published", 
-                                                           @"title", 
-                                                           @"content", 
-                                                           @"name", 
-                                                           nil];
-    [self initializeParser];
-    withinEntryElement  = NO;
-  }
-  return self;
++ (FeedParser *)feedParserForFeed:(NSURL *)feedURL
+{
+    return [[[self alloc] initWithFeedURL:feedURL] autorelease];
 }
 
-- (void)initializeParser {
-  self.parser                          = [[NSXMLParser alloc] initWithContentsOfURL:url];
-  parser.delegate                      = self;
-  parser.shouldResolveExternalEntities = YES;
+- (id)initWithFeedURL:(NSURL *)feedURL
+{
+    if (self = [super init]) {
+        self.url            = feedURL;
+        self.newsFeedItems  = [[NSMutableArray alloc] init];
+        elementsWithContent = [[NSArray alloc] initWithObjects:@"id", 
+                                                               @"published", 
+                                                               @"title", 
+                                                               @"content", 
+                                                               @"name", 
+                                                               nil];
+        [self _initializeParser];
+        withinEntryElement  = NO;
+    }
+    return self;
+}
+
+- (void)_initializeParser 
+{
+    self.parser = [[NSXMLParser alloc] initWithContentsOfURL:url];
+    parser.delegate = self;
+    parser.shouldResolveExternalEntities = NO;
+    parser.shouldReportNamespacePrefixes = NO;
+    parser.shouldProcessNamespaces = NO;
 }
 
 - (BOOL)parse {
@@ -60,7 +68,8 @@
 didStartElement:(NSString *)elementName 
    namespaceURI:(NSString *)namespaceURI 
   qualifiedName:(NSString *)qualifiedName 
-     attributes:(NSDictionary *)attributeDict {
+     attributes:(NSDictionary *)attributeDict 
+{
 
     if ([elementName isEqualToString:@"entry"]) {
         currentNewsFeedItem = [[NewsFeedItem alloc] init];
@@ -82,8 +91,9 @@ didStartElement:(NSString *)elementName
     }
 }
 
-- (void)parser:(NSXMLParser *)parser 
-foundCharacters:(NSString *)string {
+-  (void)parser:(NSXMLParser *)parser 
+foundCharacters:(NSString *)string 
+{
     if (!withinEntryElement) {
         return;
     }
@@ -97,7 +107,8 @@ foundCharacters:(NSString *)string {
 - (void)parser:(NSXMLParser *)parser 
  didEndElement:(NSString *)elementName 
   namespaceURI:(NSString *)namespaceURI 
- qualifiedName:(NSString *)qName {
+ qualifiedName:(NSString *)qName 
+{
     if (!withinEntryElement) {
         return;
     }
@@ -132,19 +143,21 @@ foundCharacters:(NSString *)string {
     }
     
     if ([elementsWithContent containsObject:elementName]) {
-        [self resetCurrentStringValue];
+        [self _resetCurrentStringValue];
     }
 
 }
 
-- (void)resetCurrentStringValue {
+- (void)_resetCurrentStringValue 
+{
     if (currentStringValue) {
         [currentStringValue release];
     }
     currentStringValue = nil;
 }
 
-- (void)dealloc {
+- (void)dealloc 
+{
     [url release];
     [parser release];
     [newsFeedItems release];
