@@ -14,7 +14,6 @@
 #import "NewsFeedItemDetailViewController.h"
 
 @implementation NewsFeedTableViewController
-@synthesize navigationController;
 @synthesize newsFeedItems;
 
 - (void)viewDidLoad {
@@ -54,7 +53,9 @@
 
 
 -       (void)tableView:(UITableView *)tableView 
-didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+didSelectRowAtIndexPath:(NSIndexPath *)indexPath 
+{
+    NSLog(@"Nav controller in didSelectRow is %@", self.navigationController);
     NewsFeedItemDetailViewController *newsFeedItemDetailViewController;
     newsFeedItemDetailViewController = [[NewsFeedItemDetailViewController alloc] 
                                         initWithNibName:@"NewsFeedItemDetailViewController" 

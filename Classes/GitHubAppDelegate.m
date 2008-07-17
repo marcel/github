@@ -14,6 +14,7 @@
 #define USER_NEEDS_FEED_URL  @"http://github.com/%@.atom"
 
 @implementation GitHubAppDelegate
+@synthesize navigationController;
 @synthesize splashScreenViewController;
 @synthesize window;
 - (void)applicationDidFinishLaunching:(UIApplication *)application 
@@ -30,6 +31,7 @@
 {
     NSAutoreleasePool* autoreleasePool = [[NSAutoreleasePool alloc] init];
     
+    NSLog(@"Loading feed at '%@'", [self feedURL]);
     [FeedController loadFeed:[self feedURL] 
                     delegate:self];
     
@@ -80,7 +82,6 @@
       didFinishLoading:(NSURL *)feedURL 
                 result:(NSMutableArray *)result
 {
-    NSLog(@"Feed finished loading");
     NewsFeedTableViewController *newsFeedTableViewController;
     newsFeedTableViewController = 
         [[NewsFeedTableViewController alloc] 
@@ -88,7 +89,9 @@
                   bundle:nil];
     
     newsFeedTableViewController.newsFeedItems = result;
-    [window addSubview:[newsFeedTableViewController view]];
+    [navigationController pushViewController:newsFeedTableViewController 
+                                    animated:NO];
+    [window addSubview:navigationController.view];
 }
 
 - (void)feedController:(FeedController *)feedController

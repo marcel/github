@@ -286,8 +286,9 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>22</integer>
-									<integer>1</integer>
+									<integer>32</integer>
+									<integer>27</integer>
+									<integer>26</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -341,7 +342,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>1FBDE1690E2F24B100E62718</string>
+										<string>1FBDE1DB0E2F2F9700E62718</string>
 										<key>history</key>
 										<array>
 											<string>1FBDDE2C0E2DDF0D00E62718</string>
@@ -361,12 +362,12 @@
 											<string>1FBDE0E50E2F199A00E62718</string>
 											<string>1FBDE0F20E2F19F500E62718</string>
 											<string>1FBDE0F90E2F1A6200E62718</string>
-											<string>1FBDE10C0E2F1BE400E62718</string>
-											<string>1FBDE1250E2F1EDF00E62718</string>
-											<string>1FBDE12C0E2F1F9C00E62718</string>
 											<string>1FBDE15B0E2F245300E62718</string>
 											<string>1FBDE15C0E2F245300E62718</string>
-											<string>1FBDE15D0E2F245300E62718</string>
+											<string>1FBDE1A80E2F297B00E62718</string>
+											<string>1FBDE1AE0E2F299300E62718</string>
+											<string>1FBDE1AF0E2F299300E62718</string>
+											<string>1FBDE1B00E2F299300E62718</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -567,6 +568,16 @@
 											<string>1FBDE1620E2F245300E62718</string>
 											<string>1FBDE1630E2F245300E62718</string>
 											<string>1FBDE1640E2F245300E62718</string>
+											<string>1FBDE1900E2F274E00E62718</string>
+											<string>1FBDE1910E2F274E00E62718</string>
+											<string>1FBDE1A90E2F297B00E62718</string>
+											<string>1FBDE1AA0E2F297B00E62718</string>
+											<string>1FBDE1AB0E2F297B00E62718</string>
+											<string>1FBDE1AC0E2F297B00E62718</string>
+											<string>1FBDE1B10E2F299300E62718</string>
+											<string>1FBDE1B20E2F299300E62718</string>
+											<string>1FBDE1B30E2F299300E62718</string>
+											<string>1FBDE1B40E2F299300E62718</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -785,8 +796,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -809,6 +818,8 @@
 							<string>458pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>

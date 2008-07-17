@@ -12,11 +12,13 @@
 
 @interface GitHubAppDelegate : NSObject <UIApplicationDelegate, FeedControllerDelegate> {	
 	IBOutlet UIWindow *window;
+    IBOutlet UINavigationController *navigationController;
     IBOutlet SplashScreenViewController *splashScreenViewController;
     NSURL *_feedURL;
 }
 
 @property (nonatomic, retain) UIWindow *window;
+@property (nonatomic, retain) UINavigationController *navigationController;
 @property (nonatomic, retain) SplashScreenViewController *splashScreenViewController;
 - (void)startLoadingNewsFeed;
 - (BOOL)isLoggedIn;
