@@ -7,8 +7,6 @@
 //
 
 #import "FeedController.h"
-
-
 @implementation FeedController
 @synthesize parser;
 @synthesize delegate;
@@ -34,8 +32,8 @@
 - (void)load
 {
     [parser parse];
-    [delegate parser:parser 
-    didFinishLoading:parser.url 
-              result:parser.newsFeedItems];
+    [delegate feedController:self
+            didFinishLoading:parser.url 
+                      result:parser.newsFeedItems];
 }
 @end

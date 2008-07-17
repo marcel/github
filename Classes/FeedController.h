@@ -8,11 +8,17 @@
 
 #import <UIKit/UIKit.h>
 #import "FeedParser.h"
+@class FeedController;
+
 @protocol FeedControllerDelegate <NSObject>
 @optional
--   (void)parser:(FeedParser *)parser 
-didFinishLoading:(NSURL *)feedURL 
-          result:(NSMutableArray *)result;
+- (void)feedController:(FeedController *)feedController 
+      didFinishLoading:(NSURL *)feedURL 
+                result:(NSMutableArray *)result;
+
+- (void)feedController:(FeedController *)feedController
+      couldNotLoadFeed:(NSURL *)feedURL
+                 error:(NSError *)error;
 @end
 
 @interface FeedController : NSObject {

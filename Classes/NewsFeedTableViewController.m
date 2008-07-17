@@ -14,23 +14,10 @@
 #import "NewsFeedItemDetailViewController.h"
 
 @implementation NewsFeedTableViewController
+@synthesize navigationController;
 @synthesize newsFeedItems;
 
-- (id)initWithCoder:(NSCoder *)coder {
-    if (self = [super initWithCoder:coder]) {
-        self.newsFeedItems = [[NSMutableArray alloc] init];
-    }
-    return self;
-}
-
 - (void)viewDidLoad {
-    /*
-    FeedParser *parser;
-    parser = [[FeedParser parserForFeedURL:[self feedURL] delegate:nil];
-    [parser parse];
-    NSLog(@"News feed items: %@", [parser newsFeedItems]);
-    [newsFeedItems addObjectsFromArray:[parser newsFeedItems]];
-     */
 }
 
 

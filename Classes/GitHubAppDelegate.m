@@ -9,6 +9,7 @@
 #import "GitHubAppDelegate.h"
 #import "NewsFeedItem.h"
 #import "SplashScreenViewController.h"
+#import "NewsFeedTableViewController.h"
 #define PUBLIC_NEWS_FEED_URL @"http://github.com/news.atom"
 #define USER_NEEDS_FEED_URL  @"http://github.com/%@.atom"
 
@@ -33,13 +34,6 @@
                     delegate:self];
     
     [autoreleasePool release];
-}
-
--   (void)parser:(FeedParser *)parser 
-didFinishLoading:(NSURL *)feedURL 
-          result:(NSMutableArray *)result
-{
-    NSLog(@"Feed finished loadeding");
 }
 
 - (BOOL)isLoggedIn 
@@ -79,5 +73,36 @@ didFinishLoading:(NSURL *)feedURL
 	[window release];
 	[super dealloc];
 }
+
+#pragma mark FeedControllerDelegate methods
+
+- (void)feedController:(FeedController *)feedController 
+      didFinishLoading:(NSURL *)feedURL 
+                result:(NSMutableArray *)result
+{
+    NSLog(@"Feed finished loading");
+    NewsFeedTableViewController *newsFeedTableViewController;
+    newsFeedTableViewController = 
+        [[NewsFeedTableViewController alloc] 
+         initWithNibName:@"NewsFeedTableViewController" 
+                  bundle:nil];
+    
+    newsFeedTableViewController.newsFeedItems = result;
+    [window addSubview:[newsFeedTableViewController view]];
+}
+
+- (void)feedController:(FeedController *)feedController
+      couldNotLoadFeed:(NSURL *)feedURL
+                 error:(NSError *)error
+{
+    UIAlertView *feedLoadingErrorAlertView;
+    feedLoadingErrorAlertView = [[UIAlertView alloc] initWithTitle:@"Error loading feed"
+                                                           message:[error localizedDescription]
+                                                          delegate:nil
+                                                 cancelButtonTitle:@"Dismiss"
+                                                 otherButtonTitles:nil];
+    [feedLoadingErrorAlertView show];
+}
+
 
 @end

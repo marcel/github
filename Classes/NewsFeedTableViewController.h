@@ -9,8 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface NewsFeedTableViewController : UITableViewController {
+    IBOutlet UINavigationController *navigationController;
     NSMutableArray *newsFeedItems;
 }
+@property (nonatomic, retain) UINavigationController *navigationController;
 @property (nonatomic, retain) NSMutableArray *newsFeedItems;
 
 @end
