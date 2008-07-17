@@ -29,9 +29,8 @@
 {
     NSAutoreleasePool* autoreleasePool = [[NSAutoreleasePool alloc] init];
     
-    NSLog(@"Starting to load the feed");
     [FeedController loadFeed:[self feedURL] 
-                     delegate:self];
+                    delegate:self];
     
     [autoreleasePool release];
 }
@@ -40,7 +39,7 @@
 didFinishLoading:(NSURL *)feedURL 
           result:(NSMutableArray *)result
 {
-    NSLog(@"Feed has been loaded");
+    NSLog(@"Feed finished loadeding");
 }
 
 - (BOOL)isLoggedIn 
@@ -51,13 +50,14 @@ didFinishLoading:(NSURL *)feedURL
 - (NSURL *)feedURL 
 {
     if (_feedURL == nil) {
+        NSString *url;
         if ([self isLoggedIn]) {
-            _feedURL = [NSURL URLWithString:[NSString 
-                                             stringWithFormat:USER_NEEDS_FEED_URL, 
-                                             [self loggedInUser]]];
+            url = [NSString stringWithFormat:USER_NEEDS_FEED_URL, [self loggedInUser]];
         } else {
-            _feedURL = [NSURL URLWithString:PUBLIC_NEWS_FEED_URL];
+            url = PUBLIC_NEWS_FEED_URL;
         }
+        _feedURL = [[NSURL URLWithString:url] retain];
+        [url release];
     }
     return _feedURL;
 }

@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* GitHubAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {857, 1296}}";
-			sepNavSelRange = "{799, 0}";
-			sepNavVisRange = "{515, 780}";
+			sepNavIntBoundsRect = "{{0, 0}, {857, 1312}}";
+			sepNavSelRange = "{1455, 0}";
+			sepNavVisRange = "{1006, 715}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* GitHub */ = {
@@ -12103,7 +12103,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 28";
 		rLen = 0;
-		rLoc = 1855;
+		rLoc = 1771;
 		rType = 0;
 		vrLen = 696;
 		vrLoc = 0;
@@ -12113,7 +12113,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 28";
 		rLen = 0;
-		rLoc = 1855;
+		rLoc = 1771;
 		rType = 0;
 		vrLen = 696;
 		vrLoc = 0;
@@ -12351,7 +12351,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 52";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1655;
 		rType = 0;
 		vrLen = 817;
 		vrLoc = 0;
@@ -12411,7 +12411,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 24";
 		rLen = 0;
-		rLoc = 1045;
+		rLoc = 1003;
 		rType = 0;
 		vrLen = 818;
 		vrLoc = 3;
@@ -12431,7 +12431,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 24";
 		rLen = 0;
-		rLoc = 1045;
+		rLoc = 1003;
 		rType = 0;
 		vrLen = 871;
 		vrLoc = 3;
@@ -12451,7 +12451,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 24";
 		rLen = 0;
-		rLoc = 1045;
+		rLoc = 1003;
 		rType = 0;
 		vrLen = 871;
 		vrLoc = 3;
@@ -12491,7 +12491,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 52";
 		rLen = 0;
-		rLoc = 1739;
+		rLoc = 1655;
 		rType = 0;
 		vrLen = 817;
 		vrLoc = 0;
@@ -12551,7 +12551,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 45";
 		rLen = 0;
-		rLoc = 1512;
+		rLoc = 1378;
 		rType = 0;
 		vrLen = 933;
 		vrLoc = 139;
@@ -12601,7 +12601,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 45";
 		rLen = 0;
-		rLoc = 1512;
+		rLoc = 1378;
 		rType = 0;
 		vrLen = 932;
 		vrLoc = 140;
@@ -12641,7 +12641,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 28";
 		rLen = 0;
-		rLoc = 1045;
+		rLoc = 1003;
 		rType = 0;
 		vrLen = 850;
 		vrLoc = 195;
@@ -12671,7 +12671,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 28";
 		rLen = 0;
-		rLoc = 1045;
+		rLoc = 1003;
 		rType = 0;
 		vrLen = 877;
 		vrLoc = 85;
@@ -12769,7 +12769,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 58";
 		rLen = 0;
-		rLoc = 1658;
+		rLoc = 1574;
 		rType = 0;
 		vrLen = 701;
 		vrLoc = 1146;
@@ -12779,7 +12779,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 29";
 		rLen = 0;
-		rLoc = 927;
+		rLoc = 887;
 		rType = 0;
 		vrLen = 1017;
 		vrLoc = 170;
@@ -13039,7 +13039,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 44";
 		rLen = 0;
-		rLoc = 1203;
+		rLoc = 1164;
 		rType = 0;
 		vrLen = 901;
 		vrLoc = 634;
@@ -13049,7 +13049,7 @@
 		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
 		name = "GitHubAppDelegate.m: 44";
 		rLen = 0;
-		rLoc = 1203;
+		rLoc = 1164;
 		rType = 0;
 		vrLen = 838;
 		vrLoc = 634;
@@ -13221,6 +13221,56 @@
 		rType = 0;
 		vrLen = 790;
 		vrLoc = 0;
+	};
+	1FBDE11C0E2F1D2400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDE0250E2F074100E62718 /* FeedController.h */;
+		name = "FeedController.h: 24";
+		rLen = 0;
+		rLoc = 608;
+		rType = 0;
+		vrLen = 790;
+		vrLoc = 0;
+	};
+	1FBDE11D0E2F1D2400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 799;
+		rType = 0;
+		vrLen = 753;
+		vrLoc = 515;
+	};
+	1FBDE11E0E2F1D2400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FBDE0250E2F074100E62718 /* FeedController.h */;
+		name = "FeedController.h: 24";
+		rLen = 0;
+		rLoc = 608;
+		rType = 0;
+		vrLen = 790;
+		vrLoc = 0;
+	};
+	1FBDE11F0E2F1D2400E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 1160;
+		rType = 0;
+		vrLen = 899;
+		vrLoc = 681;
+	};
+	1FBDE1220E2F1DEC00E62718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubAppDelegate.m */;
+		name = "GitHubAppDelegate.m: 57";
+		rLen = 0;
+		rLoc = 1455;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 1006;
 	};
 	28C286DF0D94DF7D0034E888 /* NewsFeedTableViewController.h */ = {
 		uiCtxt = {
@@ -14606,6 +14656,11 @@
 			1FBDE1160E2F1BE400E62718 /* PBXTextBookmark */ = 1FBDE1160E2F1BE400E62718 /* PBXTextBookmark */;
 			1FBDE1170E2F1BE400E62718 /* PBXTextBookmark */ = 1FBDE1170E2F1BE400E62718 /* PBXTextBookmark */;
 			1FBDE1180E2F1BE400E62718 /* PBXTextBookmark */ = 1FBDE1180E2F1BE400E62718 /* PBXTextBookmark */;
+			1FBDE11C0E2F1D2400E62718 /* PBXTextBookmark */ = 1FBDE11C0E2F1D2400E62718 /* PBXTextBookmark */;
+			1FBDE11D0E2F1D2400E62718 /* PBXTextBookmark */ = 1FBDE11D0E2F1D2400E62718 /* PBXTextBookmark */;
+			1FBDE11E0E2F1D2400E62718 /* PBXTextBookmark */ = 1FBDE11E0E2F1D2400E62718 /* PBXTextBookmark */;
+			1FBDE11F0E2F1D2400E62718 /* PBXTextBookmark */ = 1FBDE11F0E2F1D2400E62718 /* PBXTextBookmark */;
+			1FBDE1220E2F1DEC00E62718 /* PBXTextBookmark */ = 1FBDE1220E2F1DEC00E62718 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 1F8DD7450E2D5B5100364EA3 /* Source Control */;
 		userBuildSettings = {
