@@ -21,10 +21,17 @@
 			<object class="IBProxyObject" id="500153577">
 				<string key="IBProxiedObjectIdentifier">IBFirstResponder</string>
 			</object>
+			<object class="IBUINavigationItem" id="352248657">
+				<string key="IBUITitle">GitHub News Feed</string>
+				<object class="IBUIBarButtonItem" key="IBUIRightBarButtonItem" id="167643285">
+					<int key="IBUIStyle">1</int>
+					<int key="IBUISystemItemIdentifier">13</int>
+				</object>
+			</object>
 			<object class="IBUITableView" id="708052741">
 				<nil key="NSNextResponder"/>
 				<int key="NSvFlags">292</int>
-				<string key="NSFrame">{{0, -22}, {320, 460}}</string>
+				<string key="NSFrameSize">{320, 460}</string>
 				<object class="NSColor" key="IBUIBackgroundColor">
 					<int key="NSColorSpace">3</int>
 					<bytes key="NSWhite">MQA</bytes>
@@ -38,13 +45,6 @@
 				<float key="IBUIRowHeight">8.000000e+01</float>
 				<float key="IBUISectionHeaderHeight">2.700000e+01</float>
 				<float key="IBUISectionFooterHeight">2.700000e+01</float>
-			</object>
-			<object class="IBUINavigationItem" id="352248657">
-				<string key="IBUITitle">GitHub News Feed</string>
-				<object class="IBUIBarButtonItem" key="IBUIRightBarButtonItem" id="167643285">
-					<int key="IBUIStyle">1</int>
-					<int key="IBUISystemItemIdentifier">13</int>
-				</object>
 			</object>
 		</object>
 		<object class="IBObjectContainer" key="IBDocument.Objects">

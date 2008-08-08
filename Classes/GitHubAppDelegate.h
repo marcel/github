@@ -1,12 +1,15 @@
 //
 //  GitHubAppDelegate.h
-//  GitHub
+
+
+//  iPhone Screencasts
 //
-//  Created by Marcel Molina Jr on 7/15/08.
-//  Copyright InfoEther 2008. All rights reserved.
-//
+//  Created by Marcel Molina
+
 
 #import <UIKit/UIKit.h>
+
+
 #import "SplashScreenViewController.h"
 #import "FeedController.h"
 

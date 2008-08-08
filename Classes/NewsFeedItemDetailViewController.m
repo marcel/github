@@ -16,7 +16,12 @@
 
 - (void)viewDidLoad {
     self.authorLabel.text = newsFeedItem.author;
-    [content loadHTMLString:newsFeedItem.content baseURL:nil];
+    NSString *css;
+    css = @"<style>div { font-size: 4em};</style>\n";
+    NSString *html = [css stringByAppendingString:newsFeedItem.content];
+    [content loadHTMLString:html baseURL:nil];
+    [css release];
+    [html release];
 }
 
 

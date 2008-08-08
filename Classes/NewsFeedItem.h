@@ -15,6 +15,7 @@
     NSURL *url;
     NSString *title;
     NSString *content;
+    NSDictionary *_iconTypes;
 }
 @property (nonatomic, retain) NSString *tag;
 @property (nonatomic, retain) NSDate *published;
@@ -24,4 +25,6 @@
 @property (nonatomic, retain) NSString *content;
 
 - (UIImage *)icon;
+- (NSString *)iconName;
+- (NSDictionary *)iconTypes;
 @end

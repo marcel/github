@@ -22,7 +22,8 @@
     [NSThread detachNewThreadSelector:@selector(startLoadingNewsFeed) 
                              toTarget:self 
                            withObject:nil];
-    
+    navigationController.navigationBar.tintColor = [UIColor blackColor];
+    NSLog(@"Navigation controller color %@", navigationController.navigationBar.tintColor);
     [window addSubview:[splashScreenViewController view]];
     [window makeKeyAndVisible];
 }

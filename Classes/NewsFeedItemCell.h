@@ -20,5 +20,4 @@
 @property (nonatomic, retain) UILabel *title;
 @property (nonatomic, retain) UILabel *author;
 @property (nonatomic, retain) UIImageView *icon;
-
 @end
